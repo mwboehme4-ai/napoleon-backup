@@ -1,0 +1,55 @@
+{
+  "90-100": {
+    "score_category": "excellent",
+    "comments": [
+      "Ausgezeichnet! Deine Aussprache ist sehr natürlich.",
+      "Perfekt! Du klingst wie ein Muttersprachler.",
+      "Fantastisch! Betonung und Lautreinheit stimmen zu 100%.",
+      "Bravo! So spricht man Russisch."
+    ],
+    "tips": []
+  },
+  "70-89": {
+    "score_category": "good",
+    "comments": [
+      "Sehr gut! Die Betonung war richtig.",
+      "Gut gemacht! Du machst schnelle Fortschritte.",
+      "Fast perfekt! Achte nur auf die Weichheit des Lautes.",
+      "Schön! Deine Aussprache ist verständlich."
+    ],
+    "tips": [
+      "Achte auf die Betonung (wo liegt der Akzent?).",
+      "Der weiche Laut [ʲ] wird mit der Zunge nach vorne gesprochen.",
+      "Die Betonung ist hier oft auf der Endung — hör nochmal zu!"
+    ]
+  },
+  "50-69": {
+    "score_category": "fair",
+    "comments": [
+      "Nicht schlecht, aber achte auf Details.",
+      "Du bist auf dem richtigen Weg. Versuch es nochmal.",
+      "Fast richtig! Ein paar Lautunsicherheiten.",
+      "Guter Versuch! Ein bisschen mehr Konzentration."
+    ],
+    "tips": [
+      "Höre das Wort mehrmals an und wiederhole langsam.",
+      "Achte besonders auf den weichen Laut.",
+      "Die Betonung ist hier wichtig — hör nochmal zu."
+    ]
+  },
+  "0-49": {
+    "score_category": "poor",
+    "comments": [
+      "Kein Problem! Das Russische ist schwierig.",
+      "Keine Sorge — Aussprache braucht Übung. Versuch es nochmal.",
+      "Das ist noch nicht ganz richtig. Hör nochmal zu.",
+      "Bleib dran! Jeder Versuch bringt dich näher."
+    ],
+    "tips": [
+      "Höre zuerst das Wort an — achte auf jeden Laut.",
+      "Sprich langsam — nicht schnell.",
+      "Wiederhole mehrmals, bis du sicher bist.",
+      "Es gibt viele neue Laute — das ist normal!"
+    ]
+  }
+}
