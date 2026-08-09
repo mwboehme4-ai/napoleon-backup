@@ -7219,5 +7219,5104 @@
       "next_review": "2026-08-09T19:07:57.570029",
       "last_review": null
     }
+  },
+  "здороваться_001": {
+    "word": "здороваться",
+    "stress": "здоро́ваться",
+    "translation": "grüßen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "здороваться_001",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "привет_002": {
+    "word": "привет",
+    "stress": "приве́т",
+    "translation": "Hallo",
+    "phonetic": "",
+    "word_type": "interjection",
+    "aspect": null,
+    "gender": null,
+    "id": "привет_002",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "приветствовать_003": {
+    "word": "приветствовать",
+    "stress": "приве́тствовать",
+    "translation": "begrüßen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "приветствовать_003",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "прощаться_004": {
+    "word": "прощаться",
+    "stress": "проща́ться",
+    "translation": "sich verabschieden",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "прощаться_004",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "Пожалуйста_005": {
+    "word": "Пожалуйста",
+    "stress": "Пожа́луйста",
+    "translation": "bitte",
+    "phonetic": "",
+    "word_type": "particle",
+    "aspect": null,
+    "gender": null,
+    "id": "Пожалуйста_005",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "извинять_006": {
+    "word": "извинять",
+    "stress": "извиня́ть",
+    "translation": "entschuldigen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "извинять_006",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "извиняться_007": {
+    "word": "извиняться",
+    "stress": "извиня́ться",
+    "translation": "sich entschuldigen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "id": "извиняться_007",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "прощать_008": {
+    "word": "прощать",
+    "stress": "проща́ть",
+    "translation": "verzeihen, vergeben",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "прощать_008",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "с_009": {
+    "word": "с",
+    "stress": "с",
+    "translation": "mit",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "с_009",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "без_010": {
+    "word": "без",
+    "stress": "без",
+    "translation": "ohne",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "без_010",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "в_011": {
+    "word": "в",
+    "stress": "в",
+    "translation": "in",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "в_011",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "о_012": {
+    "word": "о",
+    "stress": "о́",
+    "translation": "über, von, an, bei",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "о_012",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "перед_013": {
+    "word": "перед",
+    "stress": "пе́ред",
+    "translation": "vor",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "перед_013",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "под_014": {
+    "word": "под",
+    "stress": "по́д",
+    "translation": "unter",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "под_014",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "над_015": {
+    "word": "над",
+    "stress": "над",
+    "translation": "über, an, auf",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "над_015",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "на_016": {
+    "word": "на",
+    "stress": "на́",
+    "translation": "auf, an, in (bei Zeitangaben)",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "на_016",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "из_017": {
+    "word": "из",
+    "stress": "из",
+    "translation": "aus, von",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "из_017",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "через_018": {
+    "word": "через",
+    "stress": "че́рез",
+    "translation": "durch, über (zeitlich)",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "через_018",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "здесь_019": {
+    "word": "здесь",
+    "stress": "здесь",
+    "translation": "hier",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "здесь_019",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "там_020": {
+    "word": "там",
+    "stress": "там",
+    "translation": "dort",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "там_020",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "где-то_021": {
+    "word": "где-то",
+    "stress": "где́-то",
+    "translation": "irgendwo",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "где-то_021",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "нигде_022": {
+    "word": "нигде",
+    "stress": "нигде́",
+    "translation": "nirgendwo",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "нигде_022",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "у_023": {
+    "word": "у",
+    "stress": "у́",
+    "translation": "mit, bei, an, in, zu",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "у_023",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "около_024": {
+    "word": "около",
+    "stress": "о́коло",
+    "translation": "ungefähr, bei, um",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "около_024",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сюда_025": {
+    "word": "сюда",
+    "stress": "сюда́",
+    "translation": "hierher",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "сюда_025",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "туда_026": {
+    "word": "туда",
+    "stress": "туда́",
+    "translation": "dorthin",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "туда_026",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "отсюда_027": {
+    "word": "отсюда",
+    "stress": "отсю́да",
+    "translation": "von hier",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "отсюда_027",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "оттуда_028": {
+    "word": "оттуда",
+    "stress": "отту́да",
+    "translation": "von dort",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "оттуда_028",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "близко_029": {
+    "word": "близко",
+    "stress": "бли́зко",
+    "translation": "nah",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "близко_029",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "далеко_030": {
+    "word": "далеко",
+    "stress": "далеко́",
+    "translation": "weit, fern",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "далеко_030",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "рядом_031": {
+    "word": "рядом",
+    "stress": "ря́дом",
+    "translation": "neben, daneben",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "рядом_031",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "недалеко_032": {
+    "word": "недалеко",
+    "stress": "недалеко́",
+    "translation": "nicht weit",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "недалеко_032",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "левый_033": {
+    "word": "левый",
+    "stress": "ле́вый",
+    "translation": "linker",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "левый_033",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "слева_034": {
+    "word": "слева",
+    "stress": "сле́ва",
+    "translation": "links",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "слева_034",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "налево_035": {
+    "word": "налево",
+    "stress": "нале́во",
+    "translation": "nach links",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "налево_035",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "правый_036": {
+    "word": "правый",
+    "stress": "пра́вый",
+    "translation": "rechts, recht",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "правый_036",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "справа_037": {
+    "word": "справа",
+    "stress": "спра́ва",
+    "translation": "rechts",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "справа_037",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "направо_038": {
+    "word": "направо",
+    "stress": "напра́во",
+    "translation": "nach rechts",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "направо_038",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "спереди_039": {
+    "word": "спереди",
+    "stress": "спе́реди",
+    "translation": "vorn, vorne",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "спереди_039",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "передний_040": {
+    "word": "передний",
+    "stress": "пере́дний",
+    "translation": "vorderer",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "передний_040",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вперёд_041": {
+    "word": "вперёд",
+    "stress": "вперёд",
+    "translation": "vorwärts",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "вперёд_041",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сзади_042": {
+    "word": "сзади",
+    "stress": "сза́ди",
+    "translation": "hinten, von hinten",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "сзади_042",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "назад_043": {
+    "word": "назад",
+    "stress": "наза́д",
+    "translation": "zurück",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "назад_043",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "посередине_044": {
+    "word": "посередине",
+    "stress": "посереди́не",
+    "translation": "in der Mitte",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "посередине_044",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сбоку_045": {
+    "word": "сбоку",
+    "stress": "сбо́ку",
+    "translation": "von der Seite",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "сбоку_045",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "везде_046": {
+    "word": "везде",
+    "stress": "везде́",
+    "translation": "überall",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "везде_046",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вокруг_047": {
+    "word": "вокруг",
+    "stress": "вокру́г",
+    "translation": "um, herum",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "вокруг_047",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "изнутри_048": {
+    "word": "изнутри",
+    "stress": "изнутри́",
+    "translation": "von innen",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "изнутри_048",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "куда-то_049": {
+    "word": "куда-то",
+    "stress": "куда́-то",
+    "translation": "irgendwohin",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "куда-то_049",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "напрямик_050": {
+    "word": "напрямик",
+    "stress": "напрями́к",
+    "translation": "geradeaus",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "напрямик_050",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "обратно_051": {
+    "word": "обратно",
+    "stress": "обра́тно",
+    "translation": "zurück",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "обратно_051",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "откуда-нибудь_052": {
+    "word": "откуда-нибудь",
+    "stress": "отку́да-нибудь",
+    "translation": "von irgendwoher",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "откуда-нибудь_052",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "откуда-то_053": {
+    "word": "откуда-то",
+    "stress": "отку́да-то",
+    "translation": "von irgendwoher",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "откуда-то_053",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "во-первых_054": {
+    "word": "во-первых",
+    "stress": "во-пе́рвых",
+    "translation": "erstens",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "во-первых_054",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "во-вторых_055": {
+    "word": "во-вторых",
+    "stress": "во-вторы́х",
+    "translation": "zweitens",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "во-вторых_055",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "в-третьих_056": {
+    "word": "в-третьих",
+    "stress": "в-тре́тьих",
+    "translation": "drittens",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "в-третьих_056",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вдруг_057": {
+    "word": "вдруг",
+    "stress": "вдруг",
+    "translation": "plötzlich",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "вдруг_057",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вначале_058": {
+    "word": "вначале",
+    "stress": "внача́ле",
+    "translation": "am Anfang",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "вначале_058",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "впервые_059": {
+    "word": "впервые",
+    "stress": "впервы́е",
+    "translation": "zum ersten Mal",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "впервые_059",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "заново_060": {
+    "word": "заново",
+    "stress": "за́ново",
+    "translation": "erneut, noch einmal",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "заново_060",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "насовсем_061": {
+    "word": "насовсем",
+    "stress": "насовсе́м",
+    "translation": "für immer",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "насовсем_061",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "никогда_062": {
+    "word": "никогда",
+    "stress": "никогда́",
+    "translation": "nie",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "никогда_062",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "опять_063": {
+    "word": "опять",
+    "stress": "опя́ть",
+    "translation": "wieder, noch einmal",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "опять_063",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "теперь_064": {
+    "word": "теперь",
+    "stress": "тепе́рь",
+    "translation": "jetzt, nun",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "теперь_064",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "часто_065": {
+    "word": "часто",
+    "stress": "ча́сто",
+    "translation": "oft",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "часто_065",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тогда_066": {
+    "word": "тогда",
+    "stress": "тогда́",
+    "translation": "dann, damals, zu der Zeit",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "тогда_066",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "срочно_067": {
+    "word": "срочно",
+    "stress": "сро́чно",
+    "translation": "dringend",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "срочно_067",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "обычно_068": {
+    "word": "обычно",
+    "stress": "обы́чно",
+    "translation": "gewöhnlich, normalerweise",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "обычно_068",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кстати_069": {
+    "word": "кстати",
+    "stress": "кста́ти",
+    "translation": "übrigens",
+    "phonetic": "",
+    "word_type": "particle",
+    "aspect": null,
+    "gender": null,
+    "id": "кстати_069",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "возможно_070": {
+    "word": "возможно",
+    "stress": "возмо́жно",
+    "translation": "möglich",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "возможно_070",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вероятно_071": {
+    "word": "вероятно",
+    "stress": "вероя́тно",
+    "translation": "wahrscheinlich",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "вероятно_071",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "поэтому_072": {
+    "word": "поэтому",
+    "stress": "поэ́тому",
+    "translation": "deshalb, daher",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "поэтому_072",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "благодаря_073": {
+    "word": "благодаря",
+    "stress": "благодаря́",
+    "translation": "dank, dankbar",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "благодаря_073",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "что_074": {
+    "word": "что",
+    "stress": "что",
+    "translation": "was",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "что_074",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "что-то_075": {
+    "word": "что-то",
+    "stress": "что́-то",
+    "translation": "etwas",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "что-то_075",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "что-нибудь_076": {
+    "word": "что-нибудь",
+    "stress": "что-нибудь",
+    "translation": "irgendetwas",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "что-нибудь_076",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ничего_077": {
+    "word": "ничего",
+    "stress": "ничего",
+    "translation": "nichts",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "ничего_077",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кто_078": {
+    "word": "кто",
+    "stress": "кто",
+    "translation": "wer",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "кто_078",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кто-то_079": {
+    "word": "кто-то",
+    "stress": "кто-то",
+    "translation": "jemand",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "кто-то_079",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кто-нибудь_080": {
+    "word": "кто-нибудь",
+    "stress": "кто-нибудь",
+    "translation": "irgendjemand, jemand (beliebig)",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "кто-нибудь_080",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "никто_081": {
+    "word": "никто",
+    "stress": "никто",
+    "translation": "niemand",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "никто_081",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "никуда_082": {
+    "word": "никуда",
+    "stress": "никуда́",
+    "translation": "nirgendwohin",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "никуда_082",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ничей_083": {
+    "word": "ничей",
+    "stress": "ничей",
+    "translation": "niemands (Possessivpronomen)",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "ничей_083",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "чей-нибудь_084": {
+    "word": "чей-нибудь",
+    "stress": "чей-нибудь",
+    "translation": "irgendein (Possessivpronomen)",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "чей-нибудь_084",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "так_085": {
+    "word": "так",
+    "stress": "та́к",
+    "translation": "so",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "так_085",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "также_086": {
+    "word": "также",
+    "stress": "та́кже",
+    "translation": "auch, ebenfalls",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "также_086",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тоже_087": {
+    "word": "тоже",
+    "stress": "то́же",
+    "translation": "auch",
+    "phonetic": "",
+    "word_type": "particle",
+    "aspect": null,
+    "gender": null,
+    "id": "тоже_087",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "почему-то_088": {
+    "word": "почему-то",
+    "stress": "почему́-то",
+    "translation": "aus irgendeinem Grund",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "почему-то_088",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "зачем-то_089": {
+    "word": "зачем-то",
+    "stress": "заче́м-то",
+    "translation": "irgendwohin",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "зачем-то_089",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "и_090": {
+    "word": "и",
+    "stress": "и́",
+    "translation": "und",
+    "phonetic": "",
+    "word_type": "conjunction",
+    "aspect": null,
+    "gender": null,
+    "id": "и_090",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "или_091": {
+    "word": "или",
+    "stress": "и́ли",
+    "translation": "oder",
+    "phonetic": "",
+    "word_type": "conjunction",
+    "aspect": null,
+    "gender": null,
+    "id": "или_091",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "но_092": {
+    "word": "но",
+    "stress": "но́",
+    "translation": "aber",
+    "phonetic": "",
+    "word_type": "conjunction",
+    "aspect": null,
+    "gender": null,
+    "id": "но_092",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "для_093": {
+    "word": "для",
+    "stress": "для",
+    "translation": "für",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "для_093",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "слишком_094": {
+    "word": "слишком",
+    "stress": "сли́шком",
+    "translation": "zu, allzu",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "слишком_094",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "только_095": {
+    "word": "только",
+    "stress": "то́лько",
+    "translation": "nur",
+    "phonetic": "",
+    "word_type": "particle",
+    "aspect": null,
+    "gender": null,
+    "id": "только_095",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "точно_096": {
+    "word": "точно",
+    "stress": "то́чно",
+    "translation": "genau",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "точно_096",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "приблизительно_097": {
+    "word": "приблизительно",
+    "stress": "приблизи́тельно",
+    "translation": "ungefähr, etwa",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "приблизительно_097",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "почти_098": {
+    "word": "почти",
+    "stress": "почти́",
+    "translation": "fast",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "почти_098",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "остальное_099": {
+    "word": "остальное",
+    "stress": "остально́е",
+    "translation": "das Übrige, Rest",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "остальное_099",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "каждый_100": {
+    "word": "каждый",
+    "stress": "ка́ждый",
+    "translation": "jeder/jede/jedes",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "каждый_100",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "любой_101": {
+    "word": "любой",
+    "stress": "любо́й",
+    "translation": "jeder, beliebig",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "любой_101",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "много_102": {
+    "word": "много",
+    "stress": "мно́го",
+    "translation": "viel, viele",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "много_102",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "многие_103": {
+    "word": "многие",
+    "stress": "мно́гие",
+    "translation": "viele",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "многие_103",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "все_104": {
+    "word": "все",
+    "stress": "все",
+    "translation": "alles, ganz",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "все_104",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "взамен_105": {
+    "word": "взамен",
+    "stress": "взаме́н",
+    "translation": "stattdessen, als Ersatz",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "взамен_105",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вручную_106": {
+    "word": "вручную",
+    "stress": "вручну́ю",
+    "translation": "manuell, von Hand",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "вручную_106",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "наверное_107": {
+    "word": "наверное",
+    "stress": "наве́рное",
+    "translation": "wahrscheinlich, wohl",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "наверное_107",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "нарочно_108": {
+    "word": "нарочно",
+    "stress": "наро́чно",
+    "translation": "absichtlich",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "нарочно_108",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "случайно_109": {
+    "word": "случайно",
+    "stress": "случа́йно",
+    "translation": "zufällig",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "случайно_109",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "очень_110": {
+    "word": "очень",
+    "stress": "о́чень",
+    "translation": "sehr",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "очень_110",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "например_111": {
+    "word": "например",
+    "stress": "наприме́р",
+    "translation": "zum Beispiel",
+    "phonetic": "",
+    "word_type": "particle",
+    "aspect": null,
+    "gender": null,
+    "id": "например_111",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "между_112": {
+    "word": "между",
+    "stress": "ме́жду",
+    "translation": "zwischen",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "между_112",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "среди_113": {
+    "word": "среди",
+    "stress": "среди́",
+    "translation": "unter, zwischen",
+    "phonetic": "",
+    "word_type": "preposition",
+    "aspect": null,
+    "gender": null,
+    "id": "среди_113",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "столько_114": {
+    "word": "столько",
+    "stress": "сто́лько",
+    "translation": "so viel",
+    "phonetic": "",
+    "word_type": "pronoun",
+    "aspect": null,
+    "gender": null,
+    "id": "столько_114",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "особенно_115": {
+    "word": "особенно",
+    "stress": "осо́бенно",
+    "translation": "besonders",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "особенно_115",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ноль_116": {
+    "word": "ноль",
+    "stress": "ноль",
+    "translation": "Null",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "ноль_116",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "один_117": {
+    "word": "один",
+    "stress": "один",
+    "translation": "eins",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "один_117",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "два_118": {
+    "word": "два",
+    "stress": "два",
+    "translation": "zwei",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "два_118",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "три_119": {
+    "word": "три",
+    "stress": "три́",
+    "translation": "drei",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "три_119",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "четыре_120": {
+    "word": "четыре",
+    "stress": "четы́ре",
+    "translation": "vier",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "четыре_120",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пять_121": {
+    "word": "пять",
+    "stress": "пя́ть",
+    "translation": "fünf",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "пять_121",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "шесть_122": {
+    "word": "шесть",
+    "stress": "шесть",
+    "translation": "sechs",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "шесть_122",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "семь_123": {
+    "word": "семь",
+    "stress": "семь",
+    "translation": "sieben",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "семь_123",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "восемь_124": {
+    "word": "восемь",
+    "stress": "восемь",
+    "translation": "acht",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "восемь_124",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "девять_125": {
+    "word": "девять",
+    "stress": "девять",
+    "translation": "neun",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "девять_125",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "десять_126": {
+    "word": "десять",
+    "stress": "десять",
+    "translation": "zehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "десять_126",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "одиннадцать_127": {
+    "word": "одиннадцать",
+    "stress": "оди́ннадцать",
+    "translation": "elf",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "одиннадцать_127",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "двенадцать_128": {
+    "word": "двенадцать",
+    "stress": "двена́дцать",
+    "translation": "zwölf",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "двенадцать_128",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тринадцать_129": {
+    "word": "тринадцать",
+    "stress": "трина́дцать",
+    "translation": "dreizehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "тринадцать_129",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "четырнадцать_130": {
+    "word": "четырнадцать",
+    "stress": "четы́рнадцать",
+    "translation": "vierzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "четырнадцать_130",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пятнадцать_131": {
+    "word": "пятнадцать",
+    "stress": "пятна́дцать",
+    "translation": "fünfzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "пятнадцать_131",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "шестнадцать_132": {
+    "word": "шестнадцать",
+    "stress": "шестна́дцать",
+    "translation": "sechzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "шестнадцать_132",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "семнадцать_133": {
+    "word": "семнадцать",
+    "stress": "семна́дцать",
+    "translation": "siebzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "семнадцать_133",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "восемнадцать_134": {
+    "word": "восемнадцать",
+    "stress": "восемна́дцать",
+    "translation": "achtzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "восемнадцать_134",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "девятнадцать_135": {
+    "word": "девятнадцать",
+    "stress": "девятна́дцать",
+    "translation": "neunzehn",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "девятнадцать_135",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "двадцать_136": {
+    "word": "двадцать",
+    "stress": "двадцать",
+    "translation": "zwanzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "двадцать_136",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тридцать_137": {
+    "word": "тридцать",
+    "stress": "тридцать",
+    "translation": "dreißig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "тридцать_137",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сорок_138": {
+    "word": "сорок",
+    "stress": "соро́к",
+    "translation": "vierzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "сорок_138",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пятьдесят_139": {
+    "word": "пятьдесят",
+    "stress": "пятьдесят",
+    "translation": "fünfzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "пятьдесят_139",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "шестьдесят_140": {
+    "word": "шестьдесят",
+    "stress": "шестьдесят",
+    "translation": "sechzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "шестьдесят_140",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "семьдесят_141": {
+    "word": "семьдесят",
+    "stress": "семьдесят",
+    "translation": "siebzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "семьдесят_141",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "восемьдесят_142": {
+    "word": "восемьдесят",
+    "stress": "восемьдесят",
+    "translation": "achtzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "восемьдесят_142",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "девяносто_143": {
+    "word": "девяносто",
+    "stress": "девяно́сто",
+    "translation": "neunzig",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "девяносто_143",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сто_144": {
+    "word": "сто",
+    "stress": "сто",
+    "translation": "hundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "сто_144",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "двести_145": {
+    "word": "двести",
+    "stress": "двести",
+    "translation": "zweihundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "двести_145",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "триста_146": {
+    "word": "триста",
+    "stress": "триста",
+    "translation": "dreihundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "триста_146",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "четыреста_147": {
+    "word": "четыреста",
+    "stress": "четыреста",
+    "translation": "vierhundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "четыреста_147",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пятьсот_148": {
+    "word": "пятьсот",
+    "stress": "пятьсо́т",
+    "translation": "fünfhundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "пятьсот_148",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "шестьсот_149": {
+    "word": "шестьсот",
+    "stress": "шестьсо́т",
+    "translation": "sechshundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "шестьсот_149",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "семьсот_150": {
+    "word": "семьсот",
+    "stress": "семьсо́т",
+    "translation": "siebenhundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "семьсот_150",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "восемьсот_151": {
+    "word": "восемьсот",
+    "stress": "восемьсо́т",
+    "translation": "achthundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "восемьсот_151",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "девятьсот_152": {
+    "word": "девятьсот",
+    "stress": "девятьсо́т",
+    "translation": "neunhundert",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "девятьсот_152",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тысяча_153": {
+    "word": "тысяча",
+    "stress": "ты́сяча",
+    "translation": "tausend",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "тысяча_153",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "миллион_154": {
+    "word": "миллион",
+    "stress": "миллио́н",
+    "translation": "Million",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "миллион_154",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "миллиард_155": {
+    "word": "миллиард",
+    "stress": "миллиа́рд",
+    "translation": "Milliarde",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "миллиард_155",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "первый_156": {
+    "word": "первый",
+    "stress": "пе́рвый",
+    "translation": "erste(r/s)",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "первый_156",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "второй_157": {
+    "word": "второй",
+    "stress": "второ́й",
+    "translation": "zweite",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "второй_157",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "третий_158": {
+    "word": "третий",
+    "stress": "тре́тий",
+    "translation": "dritte",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "третий_158",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "четвёртый_159": {
+    "word": "четвёртый",
+    "stress": "четвёртый",
+    "translation": "vierte (Ordnungszahl)",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "четвёртый_159",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пятый_160": {
+    "word": "пятый",
+    "stress": "пя́тый",
+    "translation": "fünfter",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "пятый_160",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "шестой_161": {
+    "word": "шестой",
+    "stress": "шесто́й",
+    "translation": "sechster",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "шестой_161",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "седьмой_162": {
+    "word": "седьмой",
+    "stress": "седьмо́й",
+    "translation": "siebte",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "седьмой_162",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "восьмой_163": {
+    "word": "восьмой",
+    "stress": "восьмо́й",
+    "translation": "der achte",
+    "phonetic": "",
+    "word_type": "numeral",
+    "aspect": null,
+    "gender": null,
+    "id": "восьмой_163",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "девятый_164": {
+    "word": "девятый",
+    "stress": "девя́тый",
+    "translation": "der neunte",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "девятый_164",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "десятый_165": {
+    "word": "десятый",
+    "stress": "деся́тый",
+    "translation": "zehnter",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "десятый_165",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "цвет_166": {
+    "word": "цвет",
+    "stress": "цве́т",
+    "translation": "Farbe",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "цвет_166",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "оттенок_167": {
+    "word": "оттенок",
+    "stress": "отте́нок",
+    "translation": "Schattierung, Nuance",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "оттенок_167",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тон_168": {
+    "word": "тон",
+    "stress": "то́н",
+    "translation": "Ton, Klang",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "тон_168",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "радуга_169": {
+    "word": "радуга",
+    "stress": "ра́дуга",
+    "translation": "Regenbogen",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "радуга_169",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "белый_170": {
+    "word": "белый",
+    "stress": "бе́лый",
+    "translation": "weiß",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "белый_170",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "чёрный_171": {
+    "word": "чёрный",
+    "stress": "чёрный",
+    "translation": "schwarz",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "чёрный_171",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "серый_172": {
+    "word": "серый",
+    "stress": "се́рый",
+    "translation": "grau",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "серый_172",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "зелёный_173": {
+    "word": "зелёный",
+    "stress": "зелёный",
+    "translation": "grün",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "зелёный_173",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "жёлтый_174": {
+    "word": "жёлтый",
+    "stress": "жёлтый",
+    "translation": "gelb",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "жёлтый_174",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "красный_175": {
+    "word": "красный",
+    "stress": "кра́сный",
+    "translation": "rot",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "красный_175",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "синий_176": {
+    "word": "синий",
+    "stress": "си́ний",
+    "translation": "blau",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "синий_176",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "голубой_177": {
+    "word": "голубой",
+    "stress": "голубо́й",
+    "translation": "hellblau",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "голубой_177",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "розовый_178": {
+    "word": "розовый",
+    "stress": "ро́зовый",
+    "translation": "rosa",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "розовый_178",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "оранжевый_179": {
+    "word": "оранжевый",
+    "stress": "ора́нжевый",
+    "translation": "orange",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "оранжевый_179",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "фиолетовый_180": {
+    "word": "фиолетовый",
+    "stress": "фиоле́товый",
+    "translation": "violett",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "фиолетовый_180",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "коричневый_181": {
+    "word": "коричневый",
+    "stress": "кори́чневый",
+    "translation": "braun",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "коричневый_181",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "золотой_182": {
+    "word": "золотой",
+    "stress": "золото́й",
+    "translation": "golden",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "золотой_182",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "серебристый_183": {
+    "word": "серебристый",
+    "stress": "серебри́стый",
+    "translation": "silbrig",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "серебристый_183",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бежевый_184": {
+    "word": "бежевый",
+    "stress": "бе́жевый",
+    "translation": "beige",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "бежевый_184",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кремовый_185": {
+    "word": "кремовый",
+    "stress": "кре́мовый",
+    "translation": "cremefarben, cremig",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "кремовый_185",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бирюзовый_186": {
+    "word": "бирюзовый",
+    "stress": "бирюзо́вый",
+    "translation": "türkis",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "бирюзовый_186",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вишнёвый_187": {
+    "word": "вишнёвый",
+    "stress": "вишнёвый",
+    "translation": "Kirsch-, kirschfarben",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "вишнёвый_187",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "лиловый_188": {
+    "word": "лиловый",
+    "stress": "лило́вый",
+    "translation": "lila, fliederfarben",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "лиловый_188",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "малиновый_189": {
+    "word": "малиновый",
+    "stress": "мали́новый",
+    "translation": "himbeerfarben",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "малиновый_189",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "светлый_190": {
+    "word": "светлый",
+    "stress": "све́тлый",
+    "translation": "hell, licht",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "светлый_190",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тёмный_191": {
+    "word": "тёмный",
+    "stress": "тёмный",
+    "translation": "dunkel",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "тёмный_191",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "цветной_192": {
+    "word": "цветной",
+    "stress": "цветно́й",
+    "translation": "bunt, farbig",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "цветной_192",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "чёрно-белый_193": {
+    "word": "чёрно-белый",
+    "stress": "чёрно-белый",
+    "translation": "schwarz-weiß",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "чёрно-белый_193",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "одноцветный_194": {
+    "word": "одноцветный",
+    "stress": "одноцве́тный",
+    "translation": "einfarbig",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "одноцветный_194",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "разноцветный_195": {
+    "word": "разноцветный",
+    "stress": "разноцве́тный",
+    "translation": "bunt, vielfarbig",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "разноцветный_195",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вес_196": {
+    "word": "вес",
+    "stress": "вес",
+    "translation": "Gewicht",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "вес_196",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ширина_197": {
+    "word": "ширина",
+    "stress": "ширина́",
+    "translation": "Breite",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "ширина_197",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "высота_198": {
+    "word": "высота",
+    "stress": "высота",
+    "translation": "Höhe",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "высота_198",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "глубина_199": {
+    "word": "глубина",
+    "stress": "глубина",
+    "translation": "Tiefe",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "глубина_199",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "объём_200": {
+    "word": "объём",
+    "stress": "объём",
+    "translation": "Volumen, Umfang",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "объём_200",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "грамм_201": {
+    "word": "грамм",
+    "stress": "гра́мм",
+    "translation": "Gramm",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "грамм_201",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "миллиграмм_202": {
+    "word": "миллиграмм",
+    "stress": "миллигра́мм",
+    "translation": "Milligramm",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "миллиграмм_202",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "килограмм_203": {
+    "word": "килограмм",
+    "stress": "килогра́мм",
+    "translation": "Kilogramm",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "килограмм_203",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тонна_204": {
+    "word": "тонна",
+    "stress": "то́нна",
+    "translation": "Tonne (Gewichtseinheit)",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "тонна_204",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "фунт_205": {
+    "word": "фунт",
+    "stress": "фу́нт",
+    "translation": "Pfund",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "фунт_205",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "унция_206": {
+    "word": "унция",
+    "stress": "у́нция",
+    "translation": "Unze",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "унция_206",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "метр_207": {
+    "word": "метр",
+    "stress": "ме́тр",
+    "translation": "Meter",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "метр_207",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "миллиметр_208": {
+    "word": "миллиметр",
+    "stress": "миллиме́тр",
+    "translation": "Millimeter",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "миллиметр_208",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сантиметр_209": {
+    "word": "сантиметр",
+    "stress": "сантиме́тр",
+    "translation": "Zentimeter",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "сантиметр_209",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "километр_210": {
+    "word": "километр",
+    "stress": "киломе́тр",
+    "translation": "Kilometer",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "километр_210",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "миля_211": {
+    "word": "миля",
+    "stress": "ми́ля",
+    "translation": "Meile",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "миля_211",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "дюйм_212": {
+    "word": "дюйм",
+    "stress": "дю́йм",
+    "translation": "Zoll",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "дюйм_212",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "фут_213": {
+    "word": "фут",
+    "stress": "фу́т",
+    "translation": "Fuß",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "фут_213",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ярд_214": {
+    "word": "ярд",
+    "stress": "я́рд",
+    "translation": "Hof, Yard",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "ярд_214",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "гектар_215": {
+    "word": "гектар",
+    "stress": "гекта́р",
+    "translation": "Hektar",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "гектар_215",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "литр_216": {
+    "word": "литр",
+    "stress": "ли́тр",
+    "translation": "Liter",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "литр_216",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "градус_217": {
+    "word": "градус",
+    "stress": "гра́дус",
+    "translation": "Grad",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "градус_217",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "вольт_218": {
+    "word": "вольт",
+    "stress": "во́льт",
+    "translation": "Volt",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "вольт_218",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ампер_219": {
+    "word": "ампер",
+    "stress": "ампе́р",
+    "translation": "Ampere",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "ампер_219",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "количество_220": {
+    "word": "количество",
+    "stress": "коли́чество",
+    "translation": "Menge, Anzahl",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "количество_220",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "немного_221": {
+    "word": "немного",
+    "stress": "немно́го",
+    "translation": "ein wenig",
+    "phonetic": "",
+    "word_type": "adverb",
+    "aspect": null,
+    "gender": null,
+    "id": "немного_221",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "дюжина_222": {
+    "word": "дюжина",
+    "stress": "дю́жина",
+    "translation": "Dutzend",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "дюжина_222",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "штука_223": {
+    "word": "штука",
+    "stress": "шту́ка",
+    "translation": "Stück",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "штука_223",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "размер_224": {
+    "word": "размер",
+    "stress": "разме́р",
+    "translation": "Größe",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "размер_224",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "масштаб_225": {
+    "word": "масштаб",
+    "stress": "масшта́б",
+    "translation": "Maßstab, Ausmaß",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "масштаб_225",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "минимальный_226": {
+    "word": "минимальный",
+    "stress": "минима́льный",
+    "translation": "minimal",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "минимальный_226",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "наименьший_227": {
+    "word": "наименьший",
+    "stress": "наиме́ньший",
+    "translation": "der geringste",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "наименьший_227",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "средний_228": {
+    "word": "средний",
+    "stress": "сре́дний",
+    "translation": "durchschnittlich, mittel",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "средний_228",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "максимальный_229": {
+    "word": "максимальный",
+    "stress": "максима́льный",
+    "translation": "maximal",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "максимальный_229",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "наибольший_230": {
+    "word": "наибольший",
+    "stress": "наибо́льший",
+    "translation": "der größte, am größten",
+    "phonetic": "",
+    "word_type": "adjective",
+    "aspect": null,
+    "gender": null,
+    "id": "наибольший_230",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "банка_231": {
+    "word": "банка",
+    "stress": "ба́нка",
+    "translation": "Glas",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "банка_231",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ведро_232": {
+    "word": "ведро",
+    "stress": "ведро",
+    "translation": "Eimer",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "ведро_232",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бочка_233": {
+    "word": "бочка",
+    "stress": "бо́чка",
+    "translation": "Fass, Tonne",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "бочка_233",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "таз_234": {
+    "word": "таз",
+    "stress": "та́з",
+    "translation": "Becken",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "таз_234",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бак_235": {
+    "word": "бак",
+    "stress": "ба́к",
+    "translation": "Tank, Behälter",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "бак_235",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "фляжка_236": {
+    "word": "фляжка",
+    "stress": "фля́жка",
+    "translation": "Feldflasche",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "фляжка_236",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "канистра_237": {
+    "word": "канистра",
+    "stress": "кани́стра",
+    "translation": "Kanister",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "канистра_237",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "цистерна_238": {
+    "word": "цистерна",
+    "stress": "цисте́рна",
+    "translation": "Zisterne, Tank",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "цистерна_238",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кружка_239": {
+    "word": "кружка",
+    "stress": "кру́жка",
+    "translation": "—",
+    "phonetic": "",
+    "word_type": "unbekannt",
+    "aspect": null,
+    "gender": null,
+    "id": "кружка_239",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "чашка_240": {
+    "word": "чашка",
+    "stress": "ча́шка",
+    "translation": "Tasse",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "чашка_240",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "блюдце_241": {
+    "word": "блюдце",
+    "stress": "блю́дце",
+    "translation": "Untertasse",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "блюдце_241",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "стакан_242": {
+    "word": "стакан",
+    "stress": "стака́н",
+    "translation": "Glas",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "стакан_242",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бокал_243": {
+    "word": "бокал",
+    "stress": "бока́л",
+    "translation": "Becher, Glas",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "бокал_243",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кастрюля_244": {
+    "word": "кастрюля",
+    "stress": "кастрю́ля",
+    "translation": "Topf, Kochtopf",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "кастрюля_244",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бутылка_245": {
+    "word": "бутылка",
+    "stress": "буты́лка",
+    "translation": "Flasche",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "бутылка_245",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "горлышко_246": {
+    "word": "горлышко",
+    "stress": "го́рлышко",
+    "translation": "Hälschen (kleiner Hals), Flaschenhals",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "neuter",
+    "id": "горлышко_246",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "графин_247": {
+    "word": "графин",
+    "stress": "графи́н",
+    "translation": "Karaffe",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "графин_247",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "кувшин_248": {
+    "word": "кувшин",
+    "stress": "кувши́н",
+    "translation": "Krug",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "кувшин_248",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сосуд_249": {
+    "word": "сосуд",
+    "stress": "сосу́д",
+    "translation": "Gefäß",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "сосуд_249",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "горшок_250": {
+    "word": "горшок",
+    "stress": "горшок",
+    "translation": "Topf",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "горшок_250",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ваза_251": {
+    "word": "ваза",
+    "stress": "ва́за",
+    "translation": "Vase",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "ваза_251",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "флакон_252": {
+    "word": "флакон",
+    "stress": "флако́н",
+    "translation": "Flasche (klein), Flakon",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "флакон_252",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пузырёк_253": {
+    "word": "пузырёк",
+    "stress": "пузырёк",
+    "translation": "Bläschen, kleine Blase",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "пузырёк_253",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "тюбик_254": {
+    "word": "тюбик",
+    "stress": "тю́бик",
+    "translation": "Tube",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "тюбик_254",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "мешок_255": {
+    "word": "мешок",
+    "stress": "мешок",
+    "translation": "Sack",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "мешок_255",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пакет_256": {
+    "word": "пакет",
+    "stress": "паке́т",
+    "translation": "Tasche, Beutel",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "masculine",
+    "id": "пакет_256",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "пачка_257": {
+    "word": "пачка",
+    "stress": "па́чка",
+    "translation": "Packung, Schachtel",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "пачка_257",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "коробка_258": {
+    "word": "коробка",
+    "stress": "коро́бка",
+    "translation": "Schachtel, Karton",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "коробка_258",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "корзина_259": {
+    "word": "корзина",
+    "stress": "корзи́на",
+    "translation": "Korb",
+    "phonetic": "",
+    "word_type": "noun",
+    "aspect": null,
+    "gender": "feminine",
+    "id": "корзина_259",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "поворачивать_260": {
+    "word": "поворачивать",
+    "stress": "повора́чивать",
+    "translation": "drehen, wenden, abbiegen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "поворачивать_260",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "отправлять_261": {
+    "word": "отправлять",
+    "stress": "отправля́ть",
+    "translation": "absenden, schicken",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "отправлять_261",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "изменить_262": {
+    "word": "изменить",
+    "stress": "изменить",
+    "translation": "ändern, verändern",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "perfektiv",
+    "gender": null,
+    "id": "изменить_262",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "подсказать_263": {
+    "word": "подсказать",
+    "stress": "подсказать",
+    "translation": "vorschlagen, raten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "perfektiv",
+    "gender": null,
+    "id": "подсказать_263",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "бояться_264": {
+    "word": "бояться",
+    "stress": "боя́ться",
+    "translation": "sich fürchten, Angst haben",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "бояться_264",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "приезжать_265": {
+    "word": "приезжать",
+    "stress": "приезжа́ть",
+    "translation": "ankommen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "приезжать_265",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "отвечать_266": {
+    "word": "отвечать",
+    "stress": "отвеча́ть",
+    "translation": "antworten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "отвечать_266",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "работать_267": {
+    "word": "работать",
+    "stress": "рабо́тать",
+    "translation": "arbeiten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "работать_267",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сохранять_268": {
+    "word": "сохранять",
+    "stress": "сохраня́ть",
+    "translation": "erhalten, bewahren, aufrechterhalten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "сохранять_268",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "записывать_269": {
+    "word": "записывать",
+    "stress": "запи́сывать",
+    "translation": "aufschreiben, notieren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "записывать_269",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "выходить_270": {
+    "word": "выходить",
+    "stress": "вы́ходить",
+    "translation": "hinausgehen, aussteigen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "perfektiv",
+    "gender": null,
+    "id": "выходить_270",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "произносить_271": {
+    "word": "произносить",
+    "stress": "произносить",
+    "translation": "aussprechen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "произносить_271",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "сожалеть_272": {
+    "word": "сожалеть",
+    "stress": "сожале́ть",
+    "translation": "bedauern",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "сожалеть_272",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "означать_273": {
+    "word": "означать",
+    "stress": "означа́ть",
+    "translation": "bedeuten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "означать_273",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "заканчивать_274": {
+    "word": "заканчивать",
+    "stress": "зака́нчивать",
+    "translation": "beenden, abschließen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "заканчивать_274",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "приказывать_275": {
+    "word": "приказывать",
+    "stress": "прика́зывать",
+    "translation": "befehlen, anordnen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "приказывать_275",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "освобождать_276": {
+    "word": "освобождать",
+    "stress": "освобожда́ть",
+    "translation": "befreien",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "освобождать_276",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "замечать_277": {
+    "word": "замечать",
+    "stress": "замеча́ть",
+    "translation": "bemerken",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "замечать_277",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "наблюдать_278": {
+    "word": "наблюдать",
+    "stress": "наблюда́ть",
+    "translation": "beobachten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "наблюдать_278",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "трогать_279": {
+    "word": "трогать",
+    "stress": "тро́гать",
+    "translation": "berühren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "трогать_279",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "владеть_280": {
+    "word": "владеть",
+    "stress": "владе́ть",
+    "translation": "—",
+    "phonetic": "",
+    "word_type": "unbekannt",
+    "aspect": null,
+    "gender": null,
+    "id": "владеть_280",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "обсуждать_281": {
+    "word": "обсуждать",
+    "stress": "обсужда́ть",
+    "translation": "besprechen, diskutieren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "обсуждать_281",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "настаивать_282": {
+    "word": "настаивать",
+    "stress": "наста́ивать",
+    "translation": "bestehen auf, darauf bestehen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "настаивать_282",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "заказывать_283": {
+    "word": "заказывать",
+    "stress": "зака́зывать",
+    "translation": "bestellen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "заказывать_283",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "наказывать_284": {
+    "word": "наказывать",
+    "stress": "нака́зывать",
+    "translation": "bestrafen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "наказывать_284",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "молиться_285": {
+    "word": "молиться",
+    "stress": "молиться",
+    "translation": "beten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "молиться_285",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "просить_286": {
+    "word": "просить",
+    "stress": "проси́ть",
+    "translation": "bitten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "просить_286",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "думать_287": {
+    "word": "думать",
+    "stress": "ду́мать",
+    "translation": "denken",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "думать_287",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "угрожать_288": {
+    "word": "угрожать",
+    "stress": "угрожа́ть",
+    "translation": "drohen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "угрожать_288",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "приглашать_289": {
+    "word": "приглашать",
+    "stress": "приглаша́ть",
+    "translation": "einladen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "приглашать_289",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "прекращать_290": {
+    "word": "прекращать",
+    "stress": "прекраща́ть",
+    "translation": "aufhören, beenden",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "прекращать_290",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "возражать_291": {
+    "word": "возражать",
+    "stress": "возража́ть",
+    "translation": "einwenden, widersprechen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "возражать_291",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "рекомендовать_292": {
+    "word": "рекомендовать",
+    "stress": "рекомендова́ть",
+    "translation": "empfehlen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "рекомендовать_292",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "объяснять_293": {
+    "word": "объяснять",
+    "stress": "объясня́ть",
+    "translation": "erklären",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "объяснять_293",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "разрешать_294": {
+    "word": "разрешать",
+    "stress": "разреша́ть",
+    "translation": "erlauben",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "разрешать_294",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "убивать_295": {
+    "word": "убивать",
+    "stress": "убива́ть",
+    "translation": "töten",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "убивать_295",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "упоминать_296": {
+    "word": "упоминать",
+    "stress": "упомина́ть",
+    "translation": "erwähnen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "упоминать_296",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "существовать_297": {
+    "word": "существовать",
+    "stress": "существова́ть",
+    "translation": "existieren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "существовать_297",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ронять_298": {
+    "word": "ронять",
+    "stress": "роня́ть",
+    "translation": "fallen lassen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "ронять_298",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "ловить_299": {
+    "word": "ловить",
+    "stress": "ловить",
+    "translation": "fangen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "ловить_299",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "лететь_300": {
+    "word": "лететь",
+    "stress": "лете́ть",
+    "translation": "fliegen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "лететь_300",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
   }
 }
