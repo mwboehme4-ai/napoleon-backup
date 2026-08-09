@@ -42,9 +42,19 @@
     <FeedbackCard v-if="lastFeedback" :feedback="lastFeedback" :score="lastScore" />
 
     <div class="navigation">
-      <button @click="skipCard" class="btn btn-outline">↻ Überspringen</button>
-      <button @click="nextCard(false)" class="btn btn-outline">✗ Falsch</button>
-      <button @click="nextCard(true)" class="btn btn-success">✓ Richtig</button>
+      <button @click="bewerten('nochmal')" class="rate-btn rate-again">
+        <span class="rate-label">Nochmal</span>
+        <span class="rate-hint">&lt; 10 Min</span>
+      </button>
+      <button @click="bewerten('schwer')" class="rate-btn rate-hard">
+        <span class="rate-label">Schwer</span>
+      </button>
+      <button @click="bewerten('gut')" class="rate-btn rate-good">
+        <span class="rate-label">Gut</span>
+      </button>
+      <button @click="bewerten('einfach')" class="rate-btn rate-easy">
+        <span class="rate-label">Einfach</span>
+      </button>
     </div>
 
     <GrammarModal v-if="showGrammarModal && grammar" :grammar="grammar" @close="showGrammarModal = false" />
@@ -81,6 +91,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
   'next-card': [isCorrect: boolean]
+  'bewertung': [b: string]
   'feedback': [feedback: Feedback]
 }>()
 
@@ -143,6 +154,11 @@ function handleFeedback(feedback: Feedback) {
   emit('feedback', feedback)
 }
 
+function bewerten(b: string) {
+  lastFeedback.value = null
+  emit('bewertung', b)
+}
+
 function skipCard() {
   lastFeedback.value = null
   emit('next-card', false)
@@ -186,6 +202,28 @@ function nextCard(isCorrect: boolean) {
 
 .recording-section { background: white; border-radius: 12px; padding: 2rem; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); }
 .navigation { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+.rate-btn {
+  flex: 1;
+  min-width: 70px;
+  padding: 0.9rem 0.5rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15rem;
+  transition: transform 0.2s ease;
+}
+.rate-btn:active { transform: scale(0.96); }
+.rate-label { font-size: 0.95rem; font-weight: 600; }
+.rate-hint  { font-size: 0.65rem; opacity: 0.85; }
+.rate-again { background: #EF4444; }
+.rate-hard  { background: #F59E0B; }
+.rate-good  { background: #10B981; }
+.rate-easy  { background: #3B82F6; }
+
 .btn-outline { background: white; color: #6B7280; border: 2px solid #D1D5DB; }
 .btn-success { background: #10B981; color: white; border: none; }
 </style>

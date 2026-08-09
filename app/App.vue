@@ -23,6 +23,7 @@
         :card-index="currentCardIndex"
         :total-cards="sessionKarten.length"
         @next-card="handleNextCard"
+        @bewertung="handleBewertung"
         @feedback="handleFeedback"
       />
 
