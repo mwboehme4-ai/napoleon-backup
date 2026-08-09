@@ -22005,5 +22005,888 @@
     "id": "лететь_300",
     "word": "лететь",
     "word_type": "verb"
+  },
+  "продолжать_001_grammar": {
+    "explanation": "Das Verb *продолжать* bedeutet 'fortsetzen' oder 'weitermachen'. Es beschreibt eine Handlung, die andauert oder wiederholt wird. Das perfektive Partnerverb ist *продолжить*, das eine abgeschlossene Handlung ausdrückt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "продолжа́ю",
+        "2p_sg": "продолжа́ешь",
+        "3p_sg": "продолжа́ет",
+        "1p_pl": "продолжа́ем",
+        "2p_pl": "продолжа́ете",
+        "3p_pl": "продолжа́ют"
+      },
+      "past": {
+        "masculine": "продолжа́л",
+        "feminine": "продолжа́ла",
+        "neuter": "продолжа́ло",
+        "plural": "продолжа́ли"
+      },
+      "imperative": {
+        "2p_sg": "продолжа́й!",
+        "2p_pl": "продолжа́йте!"
+      },
+      "participles": {
+        "present_active": "продолжа́ющий",
+        "present_passive": "продолжа́емый",
+        "past_active": "продолжа́вший",
+        "past_passive": "(продо́лженный) (продо́лжен) (продо́лжена) (продо́лжено) (продо́лжены)"
+      },
+      "adverbial": {
+        "impf": "продолжа́я",
+        "perf": "(продо́лжив) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Fa"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung von *продолжать* mit *продолжить*: Man verwendet *продолжать* für laufende Handlungen, *продолжить* für abgeschlossene.",
+      "Falsche Verwendung des Aspekts: Nach *начать* (beginnen) sollte der imperfektive Infinitiv stehen, aber nach *продолжить* im Sinne von 'weiterhin tun' auch der imperfektive Infinitiv."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *продолжать*. Das *ж* wird wie ein stimmhaftes 'sch' ausgesprochen, ähnlich dem 'j' in 'Journal'.",
+    "etymology": "Das Wort setzt sich zusammen aus *про-* (durch, hindurch) und *должать* (schulden, verpflichtet sein), was so viel wie 'weiterhin einer Sache verpflichtet sein' bedeutet.",
+    "aspect_partner": "продолжить",
+    "id": "продолжать_001",
+    "word": "продолжать",
+    "word_type": "verb"
+  },
+  "спрашивать_002_grammar": {
+    "explanation": "Das Verb 'спрашивать' bedeutet 'fragen' und beschreibt eine wiederholte oder andauernde Handlung des Fragens. Es ist imperfektiv, während das perfektive Partnerverb 'спросить' eine abgeschlossene Frage beschreibt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "спра́шиваю",
+        "2p_sg": "спра́шиваешь",
+        "3p_sg": "спра́шивает",
+        "1p_pl": "спра́шиваем",
+        "2p_pl": "спра́шиваете",
+        "3p_pl": "спра́шивают"
+      },
+      "past": {
+        "masculine": "спра́шивал",
+        "feminine": "спра́шивала",
+        "neuter": "спра́шивало",
+        "plural": "спра́шивали"
+      },
+      "imperative": {
+        "2p_sg": "спра́шивай!",
+        "2p_pl": "спра́шивайте!"
+      },
+      "participles": {
+        "present_active": "спра́шивающий",
+        "present_passive": "спра́шиваемый",
+        "past_active": "спра́шивавший",
+        "past_passive": "(спро̀шенный) (спро̀шен) (спро̀шена) (спро̀шено) (спро̀шены)"
+      },
+      "adverbial": {
+        "impf": "спра́шивая",
+        "perf": "(спросѝв) / alt: спросѝвши / alt: спрося̀ Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechsl"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'спросить', weil beide 'fragen' bedeuten; aber 'спрашивать' betont die Dauer oder Wiederholung.",
+      "Falsche Betonung: Die Betonung liegt auf der zweiten Silbe 'пра', nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *спрАшивать*. Das 'а' ist lang und betont.",
+    "etymology": "Verwandt mit dem Wort *вопрос* (Frage) und dem Verb *спросить* (fragen, perfektiv).",
+    "aspect_partner": "спросить",
+    "id": "спрашивать_002",
+    "word": "спрашивать",
+    "word_type": "verb"
+  },
+  "завтракать_003_grammar": {
+    "explanation": "—",
+    "conjugation": {
+      "present": {
+        "1p_sg": "за́втракаю",
+        "2p_sg": "за́втракаешь",
+        "3p_sg": "за́втракает",
+        "1p_pl": "за́втракаем",
+        "2p_pl": "за́втракаете",
+        "3p_pl": "за́втракают"
+      },
+      "past": {
+        "masculine": "за́втракал",
+        "feminine": "за́втракала",
+        "neuter": "за́втракало",
+        "plural": "за́втракали"
+      },
+      "imperative": {
+        "2p_sg": "за́втракай!",
+        "2p_pl": "за́втракайте!"
+      },
+      "participles": {
+        "present_active": "за́втракающий",
+        "present_passive": "−",
+        "past_active": "за́втракавший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "за́втракая",
+        "perf": "(поза́втракав) / alt: поза́втракавши Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgef"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [],
+    "tips_pronunciation": "—",
+    "etymology": "—",
+    "aspect_partner": "позавтракать",
+    "id": "завтракать_003",
+    "word": "завтракать",
+    "word_type": "unbekannt"
+  },
+  "нравиться_004_grammar": {
+    "explanation": "Das Verb *нравиться* bedeutet 'jemandem gefallen' und wird verwendet, um auszudrücken, dass etwas oder jemand eine positive Reaktion hervorruft. Es wird mit dem Dativ verwendet, z.B. *Мне нравится книга* (Mir gefällt das Buch).",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "нра́вишься",
+        "3p_sg": "нра́вится",
+        "1p_pl": "нра́вимся",
+        "2p_pl": "нра́витесь",
+        "3p_pl": "нра́вятся"
+      },
+      "past": {
+        "masculine": "нра́вился",
+        "feminine": "нра́вилась",
+        "neuter": "нра́вилось",
+        "plural": "нра́вились"
+      },
+      "imperative": {
+        "2p_sg": "нра́вься!"
+      },
+      "participles": {
+        "present_active": "нра́вящийся",
+        "present_passive": "−",
+        "past_active": "нра́вившийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "нра́вясь",
+        "perf": "(понра́вившись) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und "
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *любить* (lieben), das einen stärkeren emotionalen Bezug hat.",
+      "Falscher Fall: oft wird fälschlich der Nominativ oder Akkusativ statt des Dativs verwendet."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *нра́виться*. Das 'я' am Ende wird wie ein kurzes 'a' ausgesprochen, ähnlich dem deutschen 'ja'.",
+    "etymology": "Das Wort ist verwandt mit *нрав* (Charakter, Wesensart) und *нравиться* entwickelte sich aus der Bedeutung 'dem Charakter entsprechen'.",
+    "aspect_partner": "понравиться",
+    "id": "нравиться_004",
+    "word": "нравиться",
+    "word_type": "verb"
+  },
+  "принадлежать_005_grammar": {
+    "explanation": "Das Verb *принадлежать* bedeutet 'gehören' und wird mit dem Dativ verwendet. Es beschreibt Besitz oder Zugehörigkeit. Zum Beispiel: *Это книга принадлежит мне.* (Dieses Buch gehört mir.)",
+    "conjugation": {
+      "present": {
+        "1p_sg": "(принадлежу́)",
+        "2p_sg": "(принадлежи́шь)",
+        "3p_sg": "принадлежи́т",
+        "1p_pl": "(принадлежи́м)",
+        "2p_pl": "(принадлежи́те)",
+        "3p_pl": "принадлежа́т"
+      },
+      "past": {
+        "masculine": "принадлежа́л",
+        "feminine": "принадлежа́ла",
+        "neuter": "принадлежа́ло",
+        "plural": "принадлежа́ли"
+      },
+      "imperative": {
+        "2p_sg": "(принадлежи́!"
+      },
+      "participles": {
+        "present_active": "принадлежа́щий",
+        "present_passive": "−",
+        "past_active": "принадлежа́вший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "принадлежа́",
+        "perf": "− Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freu"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *принадлежаться* (existiert nicht)",
+      "Falscher Kasus: oft wird fälschlich der Akkusativ statt Dativ verwendet"
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der letzten Silbe: *при-над-ле-ЖАТЬ*. Das 'ж' wird wie ein stimmhaftes 'sch' ausgesprochen.",
+    "etymology": "Zusammensetzung aus *при-* (bei, zu) und *надлежать* (gehören, nötig sein), verwandt mit *надлежащий* (gehörig, angemessen).",
+    "aspect_partner": null,
+    "id": "принадлежать_005",
+    "word": "принадлежать",
+    "word_type": "verb"
+  },
+  "рыть_006_grammar": {
+    "explanation": "Das Verb 'рыть' bedeutet 'graben' und wird verwendet, wenn man Erde, ein Loch oder einen Graben aushebt. Es ist imperfektiv, also ohne Abschluss, und das perfektive Partnerverb ist 'вырыть'.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "ро́ю",
+        "2p_sg": "ро́ешь",
+        "3p_sg": "ро́ет",
+        "1p_pl": "ро́ем",
+        "2p_pl": "ро́ете",
+        "3p_pl": "ро́ют"
+      },
+      "past": {
+        "masculine": "рыл",
+        "feminine": "ры́ла",
+        "neuter": "ры́ло",
+        "plural": "ры́ли"
+      },
+      "imperative": {
+        "2p_sg": "рой!",
+        "2p_pl": "ро́йте!"
+      },
+      "participles": {
+        "present_active": "ро́ющий",
+        "present_passive": "−",
+        "past_active": "ры́вший",
+        "past_passive": "ры́тый рыт ры́та ры́то ры́ты"
+      },
+      "adverbial": {
+        "impf": "ро́я",
+        "perf": "(вы́рыв) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falsch"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung der Aspekte: 'рыть' (imperfektiv) vs. 'вырыть' (perfektiv) - man sollte das richtige wählen je nachdem, ob die Handlung abgeschlossen ist.",
+      "Falsche Betonung: Betonung fällt auf 'ы', nicht auf 'р'."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der Silbe 'рыть' – also 'рЫть'. Das 'ы' wird wie ein kurzes 'i' ausgesprochen, aber mit zurückgezogener Zunge.",
+    "etymology": "Verwandt mit dem deutschen 'reißen' und dem englischen 'rid', ursprünglich im Sinne von 'Erde aufreißen'.",
+    "aspect_partner": "вырыть",
+    "id": "рыть_006",
+    "word": "рыть",
+    "word_type": "verb"
+  },
+  "иметь_007_grammar": {
+    "explanation": "Das Verb 'иметь' bedeutet 'haben' oder 'besitzen'. Es wird häufig in formellen Kontexten verwendet, während im Alltag oft die Konstruktion 'у меня есть' benutzt wird.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "име́ю",
+        "2p_sg": "име́ешь",
+        "3p_sg": "име́ет",
+        "1p_pl": "име́ем",
+        "2p_pl": "име́ете",
+        "3p_pl": "име́ют"
+      },
+      "past": {
+        "masculine": "име́л",
+        "feminine": "име́ла",
+        "neuter": "име́ло",
+        "plural": "име́ли"
+      },
+      "imperative": {
+        "2p_sg": "име́й!",
+        "2p_pl": "име́йте!"
+      },
+      "participles": {
+        "present_active": "име́ющий",
+        "present_passive": "−",
+        "past_active": "име́вший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "име́я / име́в",
+        "perf": "− Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freu"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'есть' in Alltagssituationen",
+      "Falsche Betonung in der Konjugation"
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *и-меть*. Das 'и' wird wie ein kurzes 'i' ausgesprochen.",
+    "etymology": "Das Wort stammt vom urslawischen *jьměti*, verwandt mit dem lateinischen 'emere' (nehmen).",
+    "aspect_partner": "отыметь",
+    "id": "иметь_007",
+    "word": "иметь",
+    "word_type": "verb"
+  },
+  "помогать_008_grammar": {
+    "explanation": "Das Verb 'помогать' bedeutet 'helfen' und wird verwendet, um auszudrücken, dass man jemandem Hilfe leistet. Es ist imperfektiv, was bedeutet, dass es eine Handlung beschreibt, die andauert oder wiederholt wird.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "помога́ю",
+        "2p_sg": "помога́ешь",
+        "3p_sg": "помога́ет",
+        "1p_pl": "помога́ем",
+        "2p_pl": "помога́ете",
+        "3p_pl": "помога́ют"
+      },
+      "past": {
+        "masculine": "помога́л",
+        "feminine": "помога́ла",
+        "neuter": "помога́ло",
+        "plural": "помога́ли"
+      },
+      "imperative": {
+        "2p_sg": "помога́й!",
+        "2p_pl": "помога́йте!"
+      },
+      "participles": {
+        "present_active": "помога́ющий",
+        "present_passive": "−",
+        "past_active": "помога́вший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "помога́я / alt: помога́вши",
+        "perf": "(помо̀гши) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Fals"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit dem perfektiven Partner 'помочь', der für abgeschlossene Handlungen verwendet wird.",
+      "Falsche Verwendung des Dativs: 'помогать' erfordert den Dativ, z.B. 'Я помогаю другу' (Ich helfe einem Freund)."
+    ],
+    "tips_pronunciation": "Betonung liegt auf der zweiten Silbe: по-МО-гать. Das 'г' wird wie ein stimmhaftes 'h' ausgesprochen.",
+    "etymology": "Das Wort ist mit dem russischen Wort 'мочь' (können) verwandt und hat die Bedeutung 'jemandem zur Macht/zu Fähigkeiten verhelfen'.",
+    "aspect_partner": "помочь",
+    "id": "помогать_008",
+    "word": "помогать",
+    "word_type": "verb"
+  },
+  "спускаться_009_grammar": {
+    "explanation": "Das Verb *спускаться* bedeutet 'hinuntergehen' oder 'heruntersteigen'. Es wird verwendet, wenn man sich von oben nach unten bewegt, zum Beispiel eine Treppe hinuntergeht oder einen Berg hinabsteigt. Es ist imperfektiv, was bedeutet, dass es einen Vorgang beschreibt, der noch nicht abgeschlossen ist oder sich wiederholt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "спуска́ешься",
+        "3p_sg": "спуска́ется",
+        "1p_pl": "спуска́емся",
+        "2p_pl": "спуска́етесь",
+        "3p_pl": "спуска́ются"
+      },
+      "past": {
+        "masculine": "спуска́лся",
+        "feminine": "спуска́лась",
+        "neuter": "спуска́лось",
+        "plural": "спуска́лись"
+      },
+      "imperative": {
+        "2p_sg": "спуска́йся!"
+      },
+      "participles": {
+        "present_active": "спуска́ющийся",
+        "present_passive": "−",
+        "past_active": "спуска́вшийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "спуска́ясь",
+        "perf": "(спустѝвшись) / alt: спустя́сь Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährde"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit dem perfektiven Partner *спуститься*, das eine abgeschlossene Handlung beschreibt (z.B. 'Ich bin hinuntergestiegen').",
+      "Falsche Präposition: Nach *спускаться* verwendet man oft *с* + Genitiv (z.B. *спускаться с горы*), nicht *из*."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *спус-КА-ться*. Das 'ц' wird wie ein hartes 'ts' ausgesprochen.",
+    "etymology": "Das Wort stammt vom Präfix *с-* (herab) und dem Verb *пускаться* (sich begeben) oder der Wurzel *пуск-* (lassen, gehen lassen).",
+    "aspect_partner": "спуститься",
+    "id": "спускаться_009",
+    "word": "спускаться",
+    "word_type": "verb"
+  },
+  "надеяться_010_grammar": {
+    "explanation": "Das Verb *надеяться* bedeutet 'hoffen' und drückt eine Hoffnung oder Erwartung aus. Es wird mit dem Präpositionalfall (auf + Akkusativ) verwendet, z.B. *надеяться на помощь* (auf Hilfe hoffen).",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "наде́ешься",
+        "3p_sg": "наде́ется",
+        "1p_pl": "наде́емся",
+        "2p_pl": "наде́етесь",
+        "3p_pl": "наде́ются"
+      },
+      "past": {
+        "masculine": "наде́ялся",
+        "feminine": "наде́ялась",
+        "neuter": "наде́ялось",
+        "plural": "наде́ялись"
+      },
+      "imperative": {
+        "2p_sg": "наде́йся!"
+      },
+      "participles": {
+        "present_active": "наде́ющийся",
+        "present_passive": "−",
+        "past_active": "наде́явшийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "наде́ясь",
+        "perf": "(понаде́явшись) / alt, selten: понаде́ясь Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslun"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *надеяться на* und *ждать* (warten).",
+      "Falsche Verwendung des Kasus nach *надеяться* (oft wird fälschlich der Genitiv verwendet)."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: na-DYÉ-tsa. Das 'я' wird wie 'ja' ausgesprochen, das 'е' wie 'je'.",
+    "etymology": "Das Wort leitet sich vom altrussischen *надѣяти сѧ* ab, was 'sich verlassen auf' bedeutet, verwandt mit *надежда* (Hoffnung).",
+    "aspect_partner": "понадеяться",
+    "id": "надеяться_010",
+    "word": "надеяться",
+    "word_type": "verb"
+  },
+  "слышать_011_grammar": {
+    "explanation": "Das Verb bedeutet 'hören' und beschreibt den Prozess des Hörens oder Wahrnehmens von Geräuschen. Es wird oft verwendet, um auszudrücken, dass man etwas hört oder gehört hat.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "слы́шу",
+        "2p_sg": "слы́шишь",
+        "3p_sg": "слы́шит",
+        "1p_pl": "слы́шим",
+        "2p_pl": "слы́шите",
+        "3p_pl": "слы́шат"
+      },
+      "past": {
+        "masculine": "слы́шал",
+        "feminine": "слы́шала",
+        "neuter": "слы́шало",
+        "plural": "слы́шали"
+      },
+      "imperative": {
+        "2p_sg": "слу́шай!",
+        "2p_pl": "слу́шайте!"
+      },
+      "participles": {
+        "present_active": "слы́шащий",
+        "present_passive": "слы́шимый",
+        "past_active": "слы́шавший",
+        "past_passive": "слы́шанный слы́шан слы́шана слы́шано слы́шаны"
+      },
+      "adverbial": {
+        "impf": "слы́ша / alt: слы́шав",
+        "perf": "(услы́шав) / alt: услы́шавши / alt, selten: услы́ша Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu v"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'слушать' (zuhören): 'слышать' bedeutet hören, 'слушать' bedeutet zuhören.",
+      "Falsche Aspektverwendung: 'слышать' ist imperfektiv, das perfektive Partnerverb ist 'услышать'."
+    ],
+    "tips_pronunciation": "Betonung liegt auf der ersten Silbe: 'slý-shat'. Das 'ы' wird wie ein kurzes 'i' im Deutschen ausgesprochen, aber mit zurückgezogener Zunge.",
+    "etymology": "Das Wort stammt vom urslawischen *slyšati ab und ist verwandt mit dem litauischen 'klausyti' und dem deutschen 'lauschen'.",
+    "aspect_partner": "услышать",
+    "id": "слышать_011",
+    "word": "слышать",
+    "word_type": "verb"
+  },
+  "информировать_012_grammar": {
+    "explanation": "Das Verb *информировать* bedeutet 'informieren' und wird verwendet, um jemanden über etwas zu unterrichten. Es ist ein imperfektives Verb, das eine laufende oder wiederholte Handlung beschreibt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "информи́рую",
+        "2p_sg": "информи́руешь",
+        "3p_sg": "информи́рует",
+        "1p_pl": "информи́руем",
+        "2p_pl": "информи́руете",
+        "3p_pl": "информи́руют"
+      },
+      "past": {
+        "masculine": "информи́ровал",
+        "feminine": "информи́ровала",
+        "neuter": "информи́ровало",
+        "plural": "информи́ровали"
+      },
+      "imperative": {
+        "2p_sg": "информи́руй!",
+        "2p_pl": "информи́руйте!"
+      },
+      "participles": {
+        "present_active": "информи́рующий",
+        "present_passive": "информи́руемый",
+        "past_active": "информи́ровавший",
+        "past_passive": "информи́рованный информи́рован информи́рована информи́ровано информи́рованы"
+      },
+      "adverbial": {
+        "impf": "информи́руя",
+        "perf": "информи́ровав Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"F"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *уведомить* (perfektiv), aber *информировать* ist imperfektiv.",
+      "Falsche Betonung: Die Betonung liegt auf der dritten Silbe *-ми-*, nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der dritten Silbe: информИровать. Sprechen Sie das 'и' nach dem 'м' lang und deutlich aus.",
+    "etymology": "Das Wort stammt vom lateinischen 'informare' und ist mit dem deutschen 'informieren' verwandt.",
+    "aspect_partner": null,
+    "id": "информировать_012",
+    "word": "информировать",
+    "word_type": "verb"
+  },
+  "охотиться_013_grammar": {
+    "explanation": "Das Verb *охотиться* bedeutet 'jagen' und wird verwendet, wenn man auf die Jagd geht oder ein Tier verfolgt, um es zu fangen oder zu töten. Es ist ein imperfektives Verb, das eine andauernde oder wiederholte Handlung beschreibt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "охо́тишься",
+        "3p_sg": "охо́тится",
+        "1p_pl": "охо́тимся",
+        "2p_pl": "охо́титесь",
+        "3p_pl": "охо́тятся"
+      },
+      "past": {
+        "masculine": "охо́тился",
+        "feminine": "охо́тилась",
+        "neuter": "охо́тилось",
+        "plural": "охо́тились"
+      },
+      "imperative": {
+        "2p_sg": "охо́ться!"
+      },
+      "participles": {
+        "present_active": "охо́тящийся",
+        "present_passive": "−",
+        "past_active": "охо́тившийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "охо́тясь",
+        "perf": "−"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'охотить' (nicht existent)",
+      "Falsche Verwendung des Kasus: 'охотиться на + Akkusativ' für die Jagd auf Tiere"
+    ],
+    "tips_pronunciation": "Betonung liegt auf der zweiten Silbe: *о-ХО-тить-ся*. Das 'х' wird wie ein hartes 'ch' im Deutschen ausgesprochen, das 'т' ist weich vor 'и'.",
+    "etymology": "Das Wort leitet sich vom altrussischen *охотити* ab, das mit 'хотеть' (wollen) verwandt ist, also ursprünglich 'nach etwas verlangen' bedeutete.",
+    "aspect_partner": null,
+    "id": "охотиться_013",
+    "word": "охотиться",
+    "word_type": "verb"
+  },
+  "знать_014_grammar": {
+    "explanation": "Das Verb *знать* bedeutet 'wissen' und wird verwendet, um Kenntnisse oder Informationen auszudrücken. Es ist ein imperfektives Verb, das einen Zustand oder eine unvollendete Handlung beschreibt.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "зна́ю",
+        "2p_sg": "зна́ешь",
+        "3p_sg": "зна́ет",
+        "1p_pl": "зна́ем",
+        "2p_pl": "зна́ете",
+        "3p_pl": "зна́ют"
+      },
+      "past": {
+        "masculine": "знал",
+        "feminine": "зна́ла",
+        "neuter": "зна́ло",
+        "plural": "зна́ли"
+      },
+      "imperative": {
+        "2p_sg": "знай!",
+        "2p_pl": "зна́йте!"
+      },
+      "participles": {
+        "present_active": "зна́ющий",
+        "present_passive": "(зна́емый)",
+        "past_active": "зна́вший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "зна́я",
+        "perf": "− Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freu"
+      }
+    },
+    "declension": {
+      "type": "noun",
+      "singular": {
+        "nominative": "знать",
+        "genitive": "зна́ти",
+        "dative": "зна́ти",
+        "accusative": "знать",
+        "instrumental": "зна́тью",
+        "prepositional": "зна́ти"
+      },
+      "plural": {
+        "nominative": "−",
+        "genitive": "−",
+        "dative": "−",
+        "accusative": "−",
+        "instrumental": "−",
+        "prepositional": "−"
+      }
+    },
+    "common_mistakes": [
+      "Verwechslung mit 'уметь' (können, im Sinne von Fähigkeit)",
+      "Falsche Betonung: Die Betonung liegt auf der zweiten Silbe, nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *знать* (also 'znat’' mit Betonung auf 'a'). Das 'з' wird wie ein stimmhaftes 's' in 'Sonne' ausgesprochen, das 'т' ist weich (palatalisiert) am Ende.",
+    "etymology": "Das Wort *знать* ist urverwandt mit dem deutschen Verb 'kennen' und geht auf die indogermanische Wurzel *ĝnē- zurück, die auch in 'kennen' und 'wissen' steckt.",
+    "aspect_partner": null,
+    "id": "знать_014",
+    "word": "знать",
+    "word_type": "verb"
+  },
+  "жаловаться_015_grammar": {
+    "explanation": "Das Verb *жаловаться* bedeutet 'sich beschweren' oder 'klagen'. Es wird verwendet, um Unzufriedenheit oder Schmerz auszudrücken. Zum Beispiel: *Он жалуется на погоду* (Er beschwert sich über das Wetter).",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "жа́луешься",
+        "3p_sg": "жа́луется",
+        "1p_pl": "жа́луемся",
+        "2p_pl": "жа́луетесь",
+        "3p_pl": "жа́луются"
+      },
+      "past": {
+        "masculine": "жа́ловался",
+        "feminine": "жа́ловалась",
+        "neuter": "жа́ловалось",
+        "plural": "жа́ловались"
+      },
+      "imperative": {
+        "2p_sg": "жа́луйся!"
+      },
+      "participles": {
+        "present_active": "жа́лующийся",
+        "present_passive": "−",
+        "past_active": "жа́ловавшийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "жа́луясь",
+        "perf": "(нажа́ловавшись) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *жаловать* (jemanden begünstigen) - achten Sie auf das reflexive *-ся*",
+      "Falsche Aspektwahl: *пожаловаться* ist perfektiv, *жаловаться* imperfektiv"
+    ],
+    "tips_pronunciation": "Betonung liegt auf der zweiten Silbe: жа-ЛО-ва-ться. Das *-ся* wird weich ausgesprochen, etwa wie 'ssja'.",
+    "etymology": "Verwandt mit *жало* (Stachel) und *жалеть* (bedauern), von der Wurzel für 'Schmerz empfinden'.",
+    "aspect_partner": "нажаловаться",
+    "id": "жаловаться_015",
+    "word": "жаловаться",
+    "word_type": "verb"
+  },
+  "контролировать_016_grammar": {
+    "explanation": "Das Verb *контролировать* bedeutet 'kontrollieren' und wird verwendet, um auszudrücken, dass man etwas überwacht oder prüft. Es ist ein imperfektives Verb, das einen andauernden oder wiederholten Vorgang beschreibt. Das perfektive Gegenstück ist *проконтролировать*.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "контроли́рую",
+        "2p_sg": "контроли́руешь",
+        "3p_sg": "контроли́рует",
+        "1p_pl": "контроли́руем",
+        "2p_pl": "контроли́руете",
+        "3p_pl": "контроли́руют"
+      },
+      "past": {
+        "masculine": "контроли́ровал",
+        "feminine": "контроли́ровала",
+        "neuter": "контроли́ровало",
+        "plural": "контроли́ровали"
+      },
+      "imperative": {
+        "2p_sg": "контроли́руй!",
+        "2p_pl": "контроли́руйте!"
+      },
+      "participles": {
+        "present_active": "контроли́рующий",
+        "present_passive": "контроли́руемый",
+        "past_active": "контроли́ровавший",
+        "past_passive": "(проконтроли́рованный) (проконтроли́рован) (проконтроли́рована) (проконтроли́ровано) (проконтроли́рованы)"
+      },
+      "adverbial": {
+        "impf": "контроли́руя",
+        "perf": "(проконтроли́ровав) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern "
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'prüfen' – aber *контролировать* bedeutet eher 'überwachen' als 'testen'. Für 'prüfen' sagt man *проверять*.",
+      "Falsche Aspektverwendung: Man sollte *контролировать* für laufende Handlungen verwenden, nicht für abgeschlossene."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der dritten Silbe: kon-tro-LEE-rovat'. Das 'о' in der zweiten Silbe wird wie ein kurzes 'o' ausgesprochen, und das 'ы' am Ende wie ein hartes 'i'.",
+    "etymology": "Das Wort stammt vom lateinischen 'controlare' über das Deutsche oder Französische und ist mit 'Kontrolle' verwandt.",
+    "aspect_partner": "проконтролировать",
+    "id": "контролировать_016",
+    "word": "контролировать",
+    "word_type": "verb"
+  },
+  "стоить_017_grammar": {
+    "explanation": "Das Verb *стоить* bedeutet 'kosten' im Sinne von 'einen Preis haben' oder 'wert sein'. Es wird verwendet, um den Preis einer Sache anzugeben, oder um auszudrücken, dass sich etwas lohnt. Beispiel: *Сколько это стоит?* (Wie viel kostet das?)",
+    "conjugation": {
+      "present": {
+        "1p_sg": "(сто́ю)",
+        "2p_sg": "(сто́ишь)",
+        "3p_sg": "сто́ит",
+        "1p_pl": "(сто́им)",
+        "2p_pl": "(сто́ите)",
+        "3p_pl": "сто́ят"
+      },
+      "past": {
+        "masculine": "сто́ил",
+        "feminine": "сто́ила",
+        "neuter": "сто́ило",
+        "plural": "сто́или"
+      },
+      "participles": {
+        "present_active": "сто́ящий",
+        "present_passive": "−",
+        "past_active": "сто́ивший",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "сто́я",
+        "perf": "− Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freu"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *стоять* (stehen) wegen ähnlicher Schreibweise. *Стоить* hat ein 'и' nach dem 'т', *стоять* hat ein 'я'.",
+      "Falsche Verwendung im Perfekt: *стоить* ist imperfektiv, daher wird für abgeschlossene Handlungen das perfektive *стать* in Verbindung mit Kosten verwendet, z.B. *Это стало стоить дороже* (Das ist teurer geworden)."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der ersten Silbe: *сто́ить*. Das 'о' wird wie ein langes 'o' ausgesprochen, das 'и' wie ein kurzes 'i'.",
+    "etymology": "Verwandt mit dem deutschen Wort 'stehen' über die indogermanische Wurzel *steh₂-*, da der Preis ursprünglich mit dem Stehen (auf dem Markt) verbunden war.",
+    "aspect_partner": null,
+    "id": "стоить_017",
+    "word": "стоить",
+    "word_type": "verb"
+  },
+  "оскорблять_018_grammar": {
+    "explanation": "Das Verb bedeutet 'jemanden beleidigen' oder 'jemanden beschimpfen'. Es beschreibt eine Handlung, die andauert oder sich wiederholt. Das perfektive Gegenstück ist *оскорбить*.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "оскорбля́ю",
+        "2p_sg": "оскорбля́ешь",
+        "3p_sg": "оскорбля́ет",
+        "1p_pl": "оскорбля́ем",
+        "2p_pl": "оскорбля́ете",
+        "3p_pl": "оскорбля́ют"
+      },
+      "past": {
+        "masculine": "оскорбля́л",
+        "feminine": "оскорбля́ла",
+        "neuter": "оскорбля́ло",
+        "plural": "оскорбля́ли"
+      },
+      "imperative": {
+        "2p_sg": "оскорбля́й!",
+        "2p_pl": "оскорбля́йте!"
+      },
+      "participles": {
+        "present_active": "оскорбля́ющий",
+        "present_passive": "оскорбля́емый",
+        "past_active": "оскорбля́вший",
+        "past_passive": "(оскорблённый) (оскорблён) (оскорблена́) (оскорблено́) (оскорблены́)"
+      },
+      "adverbial": {
+        "impf": "оскорбля́я",
+        "perf": "(оскорби́в) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Fal"
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit *обижать*, was 'kränken' bedeutet, aber nicht so stark ist.",
+      "Falsche Betonung in der Konjugation, z.B. *оскорбля́ю* statt *оскорбля́ю* (Betonung auf dem 'я')."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der letzten Silbe: *оскорбля́ть*. Das 'о' am Anfang wird wie ein kurzes 'a' ausgesprochen.",
+    "etymology": "Das Wort ist abgeleitet von *скорбь* (Kummer, Trauer) mit dem Präfix *о-* und dem Verbalsuffix *-я-*.",
+    "aspect_partner": "оскорбить",
+    "id": "оскорблять_018",
+    "word": "оскорблять",
+    "word_type": "verb"
+  },
+  "улыбаться_019_grammar": {
+    "explanation": "Das Verb *улыбаться* bedeutet 'lächeln' und beschreibt eine Handlung, die andauert oder sich wiederholt. Es ist ein reflexives Verb, das mit 'sich' verwendet wird, z.B. *Она улыбается* = 'Sie lächelt'. Das perfektive Partnerverb ist *улыбнуться*.",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "улыба́ешься",
+        "3p_sg": "улыба́ется",
+        "1p_pl": "улыба́емся",
+        "2p_pl": "улыба́етесь",
+        "3p_pl": "улыба́ются"
+      },
+      "past": {
+        "masculine": "улыба́лся",
+        "feminine": "улыба́лась",
+        "neuter": "улыба́лось",
+        "plural": "улыба́лись"
+      },
+      "imperative": {
+        "2p_sg": "улыба́йся!"
+      },
+      "participles": {
+        "present_active": "улыба́ющийся",
+        "present_passive": "−",
+        "past_active": "улыба́вшийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "улыба́ясь",
+        "perf": "(улыбну́вшись) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \""
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit dem perfektiven Aspekt: Man sollte *улыбнуться* für einmalige Handlungen verwenden.",
+      "Falsche Reflexivpronomen: Man muss *улыбаться* mit 'ся' verwenden, nicht *улыбать*."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: u-ly-BAT-sja. Das 'ы' wird wie ein kurzes 'i' in 'List' ausgesprochen, und das 'я' am Ende klingt wie 'ja'.",
+    "etymology": "Das Wort ist verwandt mit *улыбка* (Lächeln) und geht auf das altslawische *лыбати* zurück, was so viel wie 'sich neigen' oder 'sich biegen' bedeutet.",
+    "aspect_partner": "улыбнуться",
+    "id": "улыбаться_019",
+    "word": "улыбаться",
+    "word_type": "verb"
+  },
+  "смеяться_020_grammar": {
+    "explanation": "Das Verb 'смеяться' bedeutet 'lachen'. Es wird verwendet, um auszudrücken, dass jemand lacht. Das passende perfektive Partnerverb ist 'рассмеяться' (loslachen).",
+    "conjugation": {
+      "present": {
+        "1p_sg": "Russisch",
+        "2p_sg": "смеёшься",
+        "3p_sg": "смеётся",
+        "1p_pl": "смеёмся",
+        "2p_pl": "смеётесь",
+        "3p_pl": "смею́тся"
+      },
+      "past": {
+        "masculine": "смея́лся",
+        "feminine": "смея́лась",
+        "neuter": "смея́лось",
+        "plural": "смея́лись"
+      },
+      "imperative": {
+        "2p_sg": "сме́йся!"
+      },
+      "participles": {
+        "present_active": "смею́щийся",
+        "present_passive": "−",
+        "past_active": "смея́вшийся",
+        "past_passive": "−"
+      },
+      "adverbial": {
+        "impf": "смея́сь / alt: смею́чись",
+        "perf": "(рассмея́вшись) Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und "
+      }
+    },
+    "declension": null,
+    "common_mistakes": [
+      "Verwechslung mit 'улыбаться' (lächeln)",
+      "Falsche Verwendung des perfektiven Aspekts, wenn der Vorgang andauert"
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: сме-ЯТЬ-ся. Das 'я' klingt wie 'ja' in 'Jacht'.",
+    "etymology": "Das Wort ist verwandt mit dem altkirchenslawischen 'смияти сѧ' und hat dieselbe Wurzel wie das deutsche 'lachen' (indogermanisch *sme-).",
+    "aspect_partner": "рассмеяться",
+    "id": "смеяться_020",
+    "word": "смеяться",
+    "word_type": "verb"
   }
 }

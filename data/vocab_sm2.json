@@ -12318,5 +12318,345 @@
       "next_review": null,
       "last_review": null
     }
+  },
+  "продолжать_001": {
+    "word": "продолжать",
+    "stress": "продолжа́ть",
+    "translation": "fortsetzen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "продолжать_001",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "спрашивать_002": {
+    "word": "спрашивать",
+    "stress": "спра́шивать",
+    "translation": "fragen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "спрашивать_002",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "завтракать_003": {
+    "word": "завтракать",
+    "stress": "за́втракать",
+    "translation": "—",
+    "phonetic": "",
+    "word_type": "unbekannt",
+    "aspect": null,
+    "gender": null,
+    "id": "завтракать_003",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "нравиться_004": {
+    "word": "нравиться",
+    "stress": "нра́виться",
+    "translation": "gefallen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "нравиться_004",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "принадлежать_005": {
+    "word": "принадлежать",
+    "stress": "принадлежа́ть",
+    "translation": "gehören",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "принадлежать_005",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "рыть_006": {
+    "word": "рыть",
+    "stress": "рыть",
+    "translation": "graben",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "рыть_006",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "иметь_007": {
+    "word": "иметь",
+    "stress": "име́ть",
+    "translation": "haben, besitzen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "иметь_007",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "помогать_008": {
+    "word": "помогать",
+    "stress": "помога́ть",
+    "translation": "helfen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "помогать_008",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "спускаться_009": {
+    "word": "спускаться",
+    "stress": "спуска́ться",
+    "translation": "hinabsteigen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "спускаться_009",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "надеяться_010": {
+    "word": "надеяться",
+    "stress": "наде́яться",
+    "translation": "hoffen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "надеяться_010",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "слышать_011": {
+    "word": "слышать",
+    "stress": "слы́шать",
+    "translation": "hören",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "слышать_011",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "информировать_012": {
+    "word": "информировать",
+    "stress": "информи́ровать",
+    "translation": "informieren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "информировать_012",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "охотиться_013": {
+    "word": "охотиться",
+    "stress": "охо́титься",
+    "translation": "jagen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "охотиться_013",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "знать_014": {
+    "word": "знать",
+    "stress": "зна́ть",
+    "translation": "wissen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "знать_014",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "жаловаться_015": {
+    "word": "жаловаться",
+    "stress": "жа́ловаться",
+    "translation": "sich beschweren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "жаловаться_015",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "контролировать_016": {
+    "word": "контролировать",
+    "stress": "контроли́ровать",
+    "translation": "kontrollieren",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "контролировать_016",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "стоить_017": {
+    "word": "стоить",
+    "stress": "сто́ить",
+    "translation": "kosten, wert sein",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "стоить_017",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "оскорблять_018": {
+    "word": "оскорблять",
+    "stress": "оскорбля́ть",
+    "translation": "beleidigen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "оскорблять_018",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "улыбаться_019": {
+    "word": "улыбаться",
+    "stress": "улыба́ться",
+    "translation": "lächeln",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "улыбаться_019",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
+  },
+  "смеяться_020": {
+    "word": "смеяться",
+    "stress": "смея́ться",
+    "translation": "lachen",
+    "phonetic": "",
+    "word_type": "verb",
+    "aspect": "imperfektiv",
+    "gender": null,
+    "id": "смеяться_020",
+    "sm2": {
+      "easiness": 2.5,
+      "interval": 1,
+      "repetitions": 0,
+      "next_review": null,
+      "last_review": null
+    }
   }
 }
