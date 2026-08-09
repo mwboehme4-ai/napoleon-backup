@@ -5109,9 +5109,9 @@
     "id": "заменя́емый_253",
     "word": "заменяемый",
     "stress": "заменя́емый",
-    "translation": "—",
+    "translation": "ersetzbar",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "adjective",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -11510,11 +11510,11 @@
   "кружка_239": {
     "word": "кружка",
     "stress": "кру́жка",
-    "translation": "—",
+    "translation": "Tasse",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "feminine",
     "id": "кружка_239",
     "sm2": {
       "easiness": 2.5,
@@ -12207,10 +12207,10 @@
   "владеть_280": {
     "word": "владеть",
     "stress": "владе́ть",
-    "translation": "—",
+    "translation": "beherrschen",
     "phonetic": "",
-    "word_type": "unbekannt",
-    "aspect": null,
+    "word_type": "verb",
+    "aspect": "imperfektiv",
     "gender": null,
     "id": "владеть_280",
     "sm2": {
@@ -12598,10 +12598,10 @@
   "завтракать_003": {
     "word": "завтракать",
     "stress": "за́втракать",
-    "translation": "—",
+    "translation": "frühstücken",
     "phonetic": "",
-    "word_type": "unbekannt",
-    "aspect": null,
+    "word_type": "verb",
+    "aspect": "imperfektiv",
     "gender": null,
     "id": "завтракать_003",
     "sm2": {
@@ -14400,11 +14400,11 @@
   "ночь_109": {
     "word": "ночь",
     "stress": "ночь",
-    "translation": "—",
+    "translation": "Nacht",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "feminine",
     "id": "ночь_109",
     "sm2": {
       "easiness": 2.5,
@@ -14587,11 +14587,11 @@
   "январь_120": {
     "word": "январь",
     "stress": "январь",
-    "translation": "—",
+    "translation": "Januar",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "masculine",
     "id": "январь_120",
     "sm2": {
       "easiness": 2.5,
@@ -15114,11 +15114,11 @@
   "полгода_151": {
     "word": "полгода",
     "stress": "полгода",
-    "translation": "—",
+    "translation": "ein halbes Jahr",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "neuter",
     "id": "полгода_151",
     "sm2": {
       "easiness": 2.5,
@@ -15420,11 +15420,11 @@
   "виза_169": {
     "word": "виза",
     "stress": "ви́за",
-    "translation": "—",
+    "translation": "Visum",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "feminine",
     "id": "виза_169",
     "sm2": {
       "easiness": 2.5,
@@ -16423,11 +16423,11 @@
   "стюардесса_228": {
     "word": "стюардесса",
     "stress": "стюарде́сса",
-    "translation": "—",
+    "translation": "Stewardess",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "feminine",
     "id": "стюардесса_228",
     "sm2": {
       "easiness": 2.5,
@@ -17613,11 +17613,11 @@
   "парус_298": {
     "word": "парус",
     "stress": "парус",
-    "translation": "—",
+    "translation": "Segel",
     "phonetic": "",
-    "word_type": "unbekannt",
+    "word_type": "noun",
     "aspect": null,
-    "gender": null,
+    "gender": "masculine",
     "id": "парус_298",
     "sm2": {
       "easiness": 2.5,

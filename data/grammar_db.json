@@ -10913,7 +10913,7 @@
     "etymology": "—"
   },
   "заменя́емый_253_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'заменяемый' ist ein Adjektiv und bedeutet 'ersetzbar' oder 'austauschbar'. Es wird von dem Verb 'заменять' (ersetzen) abgeleitet und beschreibt, dass etwas durch etwas anderes ersetzt werden kann.",
     "conjugation": {
       "present": {
         "1p_sg": "N1:",
@@ -10979,13 +10979,16 @@
         "prepositional": "заменя́емых"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung mit dem Verb 'заменять' – 'заменяемый' ist ein Adjektiv, kein Verb.",
+      "Falsche Deklination: 'заменяемый' muss mit dem Nomen in Genus, Numerus und Kasus übereinstimmen, z.B. 'заменяемая деталь' (weiblich)."
+    ],
+    "tips_pronunciation": "Betonung liegt auf der zweiten Silbe: за-ме-НЯ-е-мый. Das 'ы' wird wie ein kurzes 'i' ausgesprochen, das 'й' ist ein Halbvokal.",
+    "etymology": "Das Adjektiv ist vom Verb 'заменять' abgeleitet, das sich aus der Vorsilbe 'за-' und dem Verb 'менять' (wechseln, tauschen) zusammensetzt.",
     "aspect_partner": "заменить",
     "id": "заменя́емый_253",
     "word": "заменяемый",
-    "word_type": "unbekannt"
+    "word_type": "adjective"
   },
   "сно́сный_254_grammar": {
     "explanation": "Das Adjektiv *сносный* bedeutet 'erträglich' oder 'leidlich' und beschreibt etwas, das man aushalten kann, ohne dass es besonders gut ist. Es wird verwendet, um Qualität oder Zustand zu bewerten, z.B. *сносная погода* (erträgliches Wetter).",
@@ -23280,7 +23283,7 @@
     "word_type": "noun"
   },
   "кружка_239_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'кружка' bedeutet auf Deutsch 'Tasse' und bezieht sich meist auf ein größeres Gefäß mit Henkel, oft für Tee oder Kaffee. Es wird im Alltag häufig verwendet.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -23301,13 +23304,16 @@
         "prepositional": "кру́жках"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung mit 'чашка' (kleinere Tasse)",
+      "Falsches Genus: Es ist feminin, nicht maskulin oder neutrum."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der ersten Silbe: *крУжка*. Das 'ж' wird wie ein stimmhaftes 'sch' ausgesprochen.",
+    "etymology": "Das Wort stammt vom altrussischen *круг* (Kreis) ab, da eine Tasse früher rund war.",
     "aspect_partner": null,
     "id": "кружка_239",
     "word": "кружка",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "чашка_240_grammar": {
     "explanation": "Das Wort 'чашка' bedeutet 'Tasse' und ist ein weibliches Nomen. Es wird verwendet, um ein Trinkgefäß zu bezeichnen, oft für Tee oder Kaffee.",
@@ -24864,7 +24870,7 @@
     "word_type": "verb"
   },
   "владеть_280_grammar": {
-    "explanation": "—",
+    "explanation": "Das Verb *владеть* bedeutet 'beherrschen' oder 'besitzen'. Es wird verwendet, um auszudrücken, dass man eine Fähigkeit oder einen Gegenstand besitzt. Zum Beispiel: *Я владею русским языком* (Ich beherrsche die russische Sprache).",
     "conjugation": {
       "present": {
         "1p_sg": "владе́ю",
@@ -24896,13 +24902,16 @@
       }
     },
     "declension": null,
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung mit *владеть* (besitzen) und *обладать* (verfügen), wobei *обладать* eher für abstrakte Eigenschaften verwendet wird.",
+      "Falsche Verwendung der Präposition: Man sagt *владеть чем* (mit Instrumental), nicht *владеть с чем*."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der ersten Silbe: *ВЛА-деть*. Das *д* wird weich ausgesprochen, ähnlich wie in 'Dienst'.",
+    "etymology": "Das Wort ist verwandt mit *власть* (Macht) und *владыка* (Herrscher), was auf die ursprüngliche Bedeutung 'Herrschaft haben' zurückgeht.",
     "aspect_partner": null,
     "id": "владеть_280",
     "word": "владеть",
-    "word_type": "unbekannt"
+    "word_type": "verb"
   },
   "обсуждать_281_grammar": {
     "explanation": "Das Verb *обсуждать* bedeutet 'besprechen' oder 'diskutieren'. Es wird verwendet, wenn man über etwas spricht, um eine Meinung auszutauschen oder eine Entscheidung zu treffen. Es ist ein imperfektives Verb, das eine Handlung beschreibt, die andauert oder sich wiederholt, während das Perfektiv *обсудить* eine abgeschlossene Handlung ausdrückt.",
@@ -25872,7 +25881,7 @@
     "word_type": "verb"
   },
   "завтракать_003_grammar": {
-    "explanation": "—",
+    "explanation": "Das Verb *завтракать* bedeutet 'frühstücken' und beschreibt die Handlung des Frühstückens. Es ist ein imperfektives Verb, das eine wiederholte oder andauernde Handlung ausdrückt. Das perfektive Gegenstück ist *позавтракать*, das eine abgeschlossene Handlung beschreibt.",
     "conjugation": {
       "present": {
         "1p_sg": "за́втракаю",
@@ -25904,13 +25913,16 @@
       }
     },
     "declension": null,
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung von *завтракать* und *позавтракать*: *завтракать* ist unvollendet, *позавтракать* vollendet.",
+      "Falsche Betonung: Die Betonung liegt auf der zweiten Silbe *за́втракать*, nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *за́втракать*. Das 'в' wird wie ein 'w' ausgesprochen, und das 'а' in der ersten Silbe ist ein reduziertes 'a' (Schwa).",
+    "etymology": "Das Wort leitet sich von *завтрак* (Frühstück) ab, das wiederum vom Präfix *за-* und dem Wort *утро* (Morgen) verwandt ist, wörtlich 'am Morgen'.",
     "aspect_partner": "позавтракать",
     "id": "завтракать_003",
     "word": "завтракать",
-    "word_type": "unbekannt"
+    "word_type": "verb"
   },
   "нравиться_004_grammar": {
     "explanation": "Das Verb *нравиться* bedeutet 'jemandem gefallen' und wird verwendet, um auszudrücken, dass etwas oder jemand eine positive Reaktion hervorruft. Es wird mit dem Dativ verwendet, z.B. *Мне нравится книга* (Mir gefällt das Buch).",
@@ -30209,7 +30221,7 @@
     "word_type": "adverb"
   },
   "ночь_109_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'ночь' bedeutet 'Nacht'. Es ist ein weibliches Nomen, das eine Tageszeit beschreibt. Im Russischen wird es wie andere weibliche Nomen dekliniert.",
     "conjugation": {
       "present": {
         "1p_sg": "зо́на)"
@@ -30234,13 +30246,16 @@
         "prepositional": "ноча̀х"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung des Genus: 'ночь' ist feminin, nicht maskulin oder neutrum.",
+      "Falsche Betonung: Die Betonung liegt auf der ersten Silbe, nicht auf der zweiten."
+    ],
+    "tips_pronunciation": "Sprich 'ночь' als [noch] aus, mit weichem 'ч' (wie in 'ich' nach Vokal). Die Betonung liegt auf der ersten Silbe: 'НОЧЬ'.",
+    "etymology": "Das Wort 'ночь' stammt vom indogermanischen *nókʷts ab und ist mit deutsch 'Nacht' und englisch 'night' verwandt.",
     "aspect_partner": null,
     "id": "ночь_109",
     "word": "ночь",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "ночью_110_grammar": {
     "explanation": "Das Wort 'ночью' ist ein Adverb und bedeutet 'nachts' oder 'in der Nacht'. Es wird verwendet, um eine Handlung zu beschreiben, die während der Nacht stattfindet. Zum Beispiel: 'Я сплю ночью' (Ich schlafe nachts).",
@@ -30554,7 +30569,7 @@
     "word_type": "adverb"
   },
   "январь_120_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'январь' bedeutet 'Januar' und ist ein männliches Nomen. Es wird im Russischen mit dem Monat Januar assoziiert und folgt der Deklination der männlichen Substantive.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -30575,13 +30590,16 @@
         "prepositional": "января̀х)"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung des Geschlechts: Es ist maskulin, nicht feminin.",
+      "Falsche Betonung: Die Betonung liegt auf der zweiten Silbe, nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Sprich 'jan-VAR' mit Betonung auf der zweiten Silbe aus. Das 'я' am Anfang klingt wie 'ja' in 'Jaguar'.",
+    "etymology": "Das Wort stammt vom lateinischen 'Ianuarius' ab, benannt nach dem römischen Gott Janus.",
     "aspect_partner": null,
     "id": "январь_120",
     "word": "январь",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "февраль_121_grammar": {
     "explanation": "Das Wort *февраль* ist ein männliches Nomen und bedeutet Februar. Es wird im Russischen für den zweiten Monat des Jahres verwendet. Beachte, dass die Monatsnamen im Russischen nicht großgeschrieben werden, außer am Satzanfang.",
@@ -31680,7 +31698,7 @@
     "word_type": "noun"
   },
   "полгода_151_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort *полгода* bedeutet 'ein halbes Jahr' und ist ein neutrales Nomen. Es wird oft als Zeitangabe verwendet.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -31701,13 +31719,16 @@
         "prepositional": "−"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Das Genus wird oft fälschlich als maskulin angenommen, aber es ist neutral.",
+      "Die Deklination wird manchmal falsch gebildet, z.B. *полгода* im Genitiv als *полгода* statt *полугода*."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der zweiten Silbe: *пол-ГО-да*. Das *o* in *пол* wird wie ein kurzes 'o' ausgesprochen.",
+    "etymology": "Das Wort setzt sich zusammen aus *пол-* (halb) und *года* (Genitiv von *год*, Jahr).",
     "aspect_partner": null,
     "id": "полгода_151",
     "word": "полгода",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "полугодие_152_grammar": {
     "explanation": "Das Wort 'полугодие' bedeutet auf Deutsch 'Halbjahr'. Es bezeichnet einen Zeitraum von sechs Monaten und wird oft in akademischen oder geschäftlichen Kontexten verwendet.",
@@ -32295,7 +32316,7 @@
     "word_type": "noun"
   },
   "виза_169_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort *виза* bedeutet 'Visum' auf Deutsch. Es ist ein weibliches Nomen, das eine amtliche Genehmigung zur Einreise in ein Land bezeichnet.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -32316,13 +32337,16 @@
         "prepositional": "ви́зах"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Das Geschlecht wird oft falsch bestimmt; es ist feminin, nicht maskulin.",
+      "Die Betonung liegt auf der ersten Silbe, nicht auf der zweiten."
+    ],
+    "tips_pronunciation": "Die Betonung liegt auf der ersten Silbe: *ви́за*. Das 'и' wird wie ein kurzes 'i' ausgesprochen, das 'з' wie ein stimmhaftes 's'.",
+    "etymology": "Das Wort stammt vom lateinischen *visa* (gesehen) ab, was sich auf das Sichtvermerk im Pass bezieht.",
     "aspect_partner": null,
     "id": "виза_169",
     "word": "виза",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "билет_170_grammar": {
     "explanation": "Das Wort *билет* bedeutet auf Deutsch 'Fahrkarte' oder 'Eintrittskarte'. Es wird verwendet, um eine Karte für öffentliche Verkehrsmittel, Veranstaltungen oder Ähnliches zu bezeichnen.",
@@ -34499,7 +34523,7 @@
     "word_type": "noun"
   },
   "стюардесса_228_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'стюардесса' bezeichnet eine Frau, die in einem Flugzeug für die Sicherheit und das Wohlbefinden der Passagiere sorgt. Es wird wie ein normales weibliches Nomen dekliniert.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -34520,13 +34544,16 @@
         "prepositional": "стюарде́ссах"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung mit 'стюард' (männlicher Steward) – das ist die männliche Form.",
+      "Falsche Betonung: Die Betonung liegt auf der zweiten Silbe: стюар'десса, nicht auf der ersten."
+    ],
+    "tips_pronunciation": "Sprechen Sie das Wort mit Betonung auf der dritten Silbe: stju-ar-DE-sa. Das 'ю' klingt wie ein weiches 'u' und das 'е' wie ein 'je' am Wortanfang.",
+    "etymology": "Das Wort ist aus dem Englischen 'stewardess' entlehnt, das wiederum vom altenglischen 'stigweard' (Hausverwalter) abstammt.",
     "aspect_partner": null,
     "id": "стюардесса_228",
     "word": "стюардесса",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "штурман_229_grammar": {
     "explanation": "Das Wort 'штурман' bedeutet 'Navigator' oder 'Steuermann'. Es bezeichnet eine Person, die für die Navigation eines Schiffes oder Flugzeugs verantwortlich ist. Im Russischen wird es für männliche Personen verwendet, kann aber auch allgemein für den Beruf stehen.",
@@ -36945,7 +36972,7 @@
     "word_type": "noun"
   },
   "парус_298_grammar": {
-    "explanation": "—",
+    "explanation": "Das Wort 'парус' bedeutet 'Segel' auf Deutsch. Es wird verwendet, um das Segel eines Bootes oder Schiffes zu beschreiben. Wie viele russische Substantive hat es verschiedene Formen je nach Kasus und Zahl.",
     "conjugation": null,
     "declension": {
       "type": "noun",
@@ -36966,13 +36993,16 @@
         "prepositional": "паруса̀х"
       }
     },
-    "common_mistakes": [],
-    "tips_pronunciation": "—",
-    "etymology": "—",
+    "common_mistakes": [
+      "Verwechslung mit 'парусный' (Segel-), welches ein Adjektiv ist.",
+      "Das Genus wird fälschlich als feminin oder neutrum angenommen, aber 'парус' ist maskulin."
+    ],
+    "tips_pronunciation": "Betonung liegt auf der ersten Silbe: 'PA-rus'. Das 'у' wird wie ein kurzes 'u' ausgesprochen, und das 'с' ist stimmlos wie im Deutschen 's' in 'Haus'.",
+    "etymology": "Das Wort stammt aus dem Altgermanischen und ist mit dem deutschen 'Segel' verwandt.",
     "aspect_partner": null,
     "id": "парус_298",
     "word": "парус",
-    "word_type": "unbekannt"
+    "word_type": "noun"
   },
   "трюм_299_grammar": {
     "explanation": "Das russische Wort 'трюм' bezeichnet den Frachtraum eines Schiffes. Es ist ein maskulines Nomen. Für Anfänger ist es wichtig zu wissen, dass es sich um einen konkreten Gegenstand handelt, der oft in der Schifffahrt verwendet wird.",
