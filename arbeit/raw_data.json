@@ -1,7 +1,7 @@
 {
   "теребить_001": {
     "word": "теребить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D0%B5%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D1%8C&rnd=98354",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D0%B5%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D1%8C&rnd=60003",
     "stress": "тереби́ть",
     "phonetic": "",
     "aspect": "imperfektiv",
@@ -62,8 +62,8 @@
   },
   "давить_002": {
     "word": "давить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&rnd=75238",
-    "stress": "давить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B0%D0%B2%D0%B8%D1%82%D1%8C&rnd=39542",
+    "stress": "давѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "задавить",
@@ -111,7 +111,7 @@
   },
   "идентичность_003": {
     "word": "идентичность",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=31587",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=59210",
     "stress": "иденти́чность",
     "phonetic": "",
     "aspect": null,
@@ -161,7 +161,7 @@
   },
   "иллюзии_004": {
     "word": "иллюзии",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%B8&rnd=25391",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%B8&rnd=75256",
     "stress": "иллю́зии",
     "phonetic": "",
     "aspect": null,
@@ -215,7 +215,7 @@
   },
   "удаленный_005": {
     "word": "удаленный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=81294",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=19903",
     "stress": "удаленный",
     "phonetic": "",
     "aspect": "perfektiv",
@@ -310,7 +310,7 @@
   },
   "имеющийся_006": {
     "word": "имеющийся",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F&rnd=52649",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F&rnd=20595",
     "stress": "име́ющийся",
     "phonetic": "",
     "aspect": null,
@@ -383,10 +383,10 @@
       }
     ]
   },
-  "прощáться_007": {
-    "word": "прощáться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D1%89%C3%A1%D1%82%D1%8C%D1%81%D1%8F&rnd=77887",
-    "stress": "прощáться",
+  "прощаться_007": {
+    "word": "прощаться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D1%89%D0%B0%D1%82%D1%8C%D1%81%D1%8F&rnd=84681",
+    "stress": "проща́ться",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "проститься",
@@ -430,23 +430,23 @@
         "german": "мы проща́емсявы проща́етесьони проща́ютсямы/вы/они проща́лись"
       },
       {
-        "russian": "прошутить (прошучивать)",
-        "german": "прошутто"
+        "russian": "прощальный привет",
+        "german": "прощальный ужин"
       },
       {
-        "russian": "прощавшийся (кому-н.)",
-        "german": "прощавшийся (с кем-н.)"
+        "russian": "прощать предательство",
+        "german": "прощаться"
       },
       {
-        "russian": "прощавшийся (с кем-н.)",
-        "german": "прощаемый"
+        "russian": "прощающийся (кому-н.)",
+        "german": "прощающийся (с кем-н.)"
       }
     ]
   },
   "узел_008": {
     "word": "узел",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%B7%D0%B5%D0%BB&rnd=85894",
-    "stress": "узел",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%B7%D0%B5%D0%BB&rnd=53790",
+    "stress": "у̀зел",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -487,8 +487,8 @@
   },
   "пробел_009": {
     "word": "пробел",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB&rnd=48998",
-    "stress": "пробе́л",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%B1%D0%B5%D0%BB&rnd=21950",
+    "stress": "про̀бел",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -525,7 +525,7 @@
   },
   "просвет_010": {
     "word": "просвет",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%82&rnd=40862",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D1%81%D0%B2%D0%B5%D1%82&rnd=83952",
     "stress": "просве́т",
     "phonetic": "",
     "aspect": null,
@@ -576,7 +576,7 @@
   },
   "пропуск_011": {
     "word": "пропуск",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA&rnd=46539",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA&rnd=81688",
     "stress": "про́пуск",
     "phonetic": "",
     "aspect": null,
@@ -616,10 +616,10 @@
       }
     ]
   },
-  "окончáться_012": {
-    "word": "окончáться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%C3%A1%D1%82%D1%8C%D1%81%D1%8F&rnd=51858",
-    "stress": "окончáться",
+  "окончаться_012": {
+    "word": "окончаться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B0%D1%82%D1%8C%D1%81%D1%8F&rnd=68607",
+    "stress": "окончаться",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "оканчивать",
@@ -656,6 +656,10 @@
     "declension": null,
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: окончаться",
+        "german": ""
+      },
+      {
         "russian": "ohne Postfix\tокончаться zu оконча́ть",
         "german": ""
       },
@@ -668,18 +672,14 @@
         "german": "Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freunden\" sowie zu ähnlichen und gegensätzlichen Wörtern (Synonymen, Teilsysnonymen, Antonymen). jetzt kostenlos anmelden"
       },
       {
-        "russian": "окончательная деградация",
-        "german": "окончательная доочистка"
-      },
-      {
-        "russian": "окончательная доочистка",
-        "german": "окончательная капитуляция"
+        "russian": "окончательный разгром",
+        "german": "окончательный распад"
       }
     ]
   },
   "различие_013": {
     "word": "различие",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D0%B5&rnd=37613",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D1%87%D0%B8%D0%B5&rnd=97159",
     "stress": "разли́чие",
     "phonetic": "",
     "aspect": null,
@@ -723,10 +723,10 @@
       }
     ]
   },
-  "уменьшéние_014": {
-    "word": "уменьшéние",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%C3%A9%D0%BD%D0%B8%D0%B5&rnd=55136",
-    "stress": "уменьшéние",
+  "уменьшение_014": {
+    "word": "уменьшение",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%83%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B5%D0%BD%D0%B8%D0%B5&rnd=42651",
+    "stress": "уменьше́ние",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -756,15 +756,31 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: уменьшение",
+        "german": ""
+      },
+      {
         "russian": "уменьшать токсичность",
         "german": "уменьшаться"
+      },
+      {
+        "russian": "уменьшение интенсивности",
+        "german": "уменьшение размера пенсии"
+      },
+      {
+        "russian": "уменьшение размера пенсии",
+        "german": "уменьшение фото"
+      },
+      {
+        "russian": "уменьшение фотографии",
+        "german": "уменьшение фо̣тоснимка"
       }
     ]
   },
-  "получéние_015": {
-    "word": "получéние",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D1%83%D1%87%C3%A9%D0%BD%D0%B8%D0%B5&rnd=20080",
-    "stress": "получéние",
+  "получение_015": {
+    "word": "получение",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&rnd=74314",
+    "stress": "получе́ние",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -794,19 +810,31 @@
     },
     "example_sentences": [
       {
-        "russian": "полуцилиндрический",
-        "german": "полуциркульный"
+        "russian": "получающий пенсию (о человеке)",
+        "german": "получающийся"
       },
       {
-        "russian": "получавший (о болезни)",
-        "german": "получавшийся"
+        "russian": "получеловек-полуконь",
+        "german": "получеловек-полуробот"
+      },
+      {
+        "russian": "получеловек-полуробот",
+        "german": "получеловеческий"
+      },
+      {
+        "russian": "получеловеческий",
+        "german": "получение"
+      },
+      {
+        "russian": "получение вида на жительство",
+        "german": "получение гражданства"
       }
     ]
   },
-  "основáние_016": {
-    "word": "основáние",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%C3%A1%D0%BD%D0%B8%D0%B5&rnd=28843",
-    "stress": "основáние",
+  "основание_016": {
+    "word": "основание",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5&rnd=28654",
+    "stress": "основа́ние",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -836,30 +864,26 @@
     },
     "example_sentences": [
       {
-        "russian": "ОСНО (общая система нало̣гообложения)",
-        "german": "основ. (основанный)"
+        "russian": "основа прошедшего времени",
+        "german": "основа фо̣тобумаги"
       },
       {
-        "russian": "основ. (основанный)",
-        "german": "основа"
+        "russian": "основавшийся (возникший)",
+        "german": "основавшийся (обосновавшийся)"
       },
       {
-        "russian": "основа (в лингвистике)",
-        "german": "основа (в ткацком деле)"
+        "russian": "основавшийся (обосновавшийся)",
+        "german": "основальщик"
       },
       {
-        "russian": "основа инфинитива",
-        "german": "основа настоящего времени"
-      },
-      {
-        "russian": "основа настоящего времени",
-        "german": ""
+        "russian": "основанный на фактических данных",
+        "german": "основанье"
       }
     ]
   },
   "видимость_017": {
     "word": "видимость",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&rnd=46097",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C&rnd=82635",
     "stress": "ви́димость",
     "phonetic": "",
     "aspect": null,
@@ -901,7 +925,7 @@
   },
   "советчик_018": {
     "word": "советчик",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BA&rnd=10979",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%87%D0%B8%D0%BA&rnd=12860",
     "stress": "сове́тчик",
     "phonetic": "",
     "aspect": null,
@@ -933,10 +957,10 @@
       }
     ]
   },
-  "неизвéстный_019": {
-    "word": "неизвéстный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%C3%A9%D1%81%D1%82%D0%BD%D1%8B%D0%B9&rnd=20565",
-    "stress": "неизвéстный",
+  "неизвестный_019": {
+    "word": "неизвестный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9&rnd=46726",
+    "stress": "неизве́стный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -988,31 +1012,31 @@
     },
     "example_sentences": [
       {
-        "russian": "неизбывная тоска",
-        "german": "неизбывно"
-      },
-      {
-        "russian": "неизведанная даль",
+        "russian": "Russisch-Deutsches Universalwörterbuch online: неизвестный",
         "german": ""
       },
       {
-        "russian": "неизвестная даль",
-        "german": "неизвестная знаменитость"
+        "russian": "неизвестно (неизвестный)",
+        "german": "неизвестно какой"
       },
       {
-        "russian": "неизвестная знаменитость",
-        "german": "неизвестно (кому)"
+        "russian": "неизвестно какой",
+        "german": "неизвестно кто"
       },
       {
-        "russian": "неизвестно (кому)",
-        "german": ""
+        "russian": "неизвестный (о человеке)",
+        "german": "неизвестный коллекционер"
+      },
+      {
+        "russian": "неизвестный коллекционер",
+        "german": "неизвестный космический объект"
       }
     ]
   },
-  "собствéнный_020": {
-    "word": "собствéнный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%C3%A9%D0%BD%D0%BD%D1%8B%D0%B9&rnd=16505",
-    "stress": "собствéнный",
+  "собственный_020": {
+    "word": "собственный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=93459",
+    "stress": "со́бственный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1058,6 +1082,10 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: собственный",
+        "german": ""
+      },
+      {
         "russian": "M2:со́бственного",
         "german": "F2:со́бственной"
       },
@@ -1072,16 +1100,12 @@
       {
         "russian": "N3:со́бственному",
         "german": "P3:со́бственным"
-      },
-      {
-        "russian": "P5:со́бственными",
-        "german": "M6:осо́бственном"
       }
     ]
   },
   "изможденный_021": {
     "word": "изможденный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=18088",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=86057",
     "stress": "изможденный",
     "phonetic": "",
     "aspect": null,
@@ -1156,10 +1180,10 @@
       }
     ]
   },
-  "косвéнный_022": {
-    "word": "косвéнный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%BE%D1%81%D0%B2%C3%A9%D0%BD%D0%BD%D1%8B%D0%B9&rnd=70413",
-    "stress": "косвéнный",
+  "косвенный_022": {
+    "word": "косвенный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%BE%D1%81%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=95926",
+    "stress": "ко́свенный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1221,13 +1245,21 @@
       {
         "russian": "ко̣свеннопадежная форма",
         "german": "ко̣свенно-падежный"
+      },
+      {
+        "russian": "ко̣свеннопадежный",
+        "german": "косвенность"
+      },
+      {
+        "russian": "косвенный зарубежный лизинг",
+        "german": "косвенный налог"
       }
     ]
   },
-  "небезопáсный_023": {
-    "word": "небезопáсный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%C3%A1%D1%81%D0%BD%D1%8B%D0%B9&rnd=82769",
-    "stress": "небезопáсный",
+  "небезопасный_023": {
+    "word": "небезопасный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9&rnd=52687",
+    "stress": "небезопа́сный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1279,6 +1311,10 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: небезопасный",
+        "german": ""
+      },
+      {
         "russian": "небезосновательно",
         "german": "небезосновательность"
       },
@@ -1288,14 +1324,14 @@
       },
       {
         "russian": "небезосновательный",
-        "german": ""
+        "german": "небезответно"
       }
     ]
   },
-  "неудóбный_024": {
-    "word": "неудóбный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D1%83%D0%B4%C3%B3%D0%B1%D0%BD%D1%8B%D0%B9&rnd=29285",
-    "stress": "неудóбный",
+  "неудобный_024": {
+    "word": "неудобный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D1%83%D0%B4%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9&rnd=56907",
+    "stress": "неудо́бный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1349,19 +1385,15 @@
     },
     "example_sentences": [
       {
-        "russian": "неудавшийся старт",
-        "german": "неудавшийся теракт"
-      },
-      {
-        "russian": "неудавшийся теракт",
-        "german": "неудаляющийся"
+        "russian": "неудо̣боваримость",
+        "german": "неудо̣боваримый"
       }
     ]
   },
-  "идéи_025": {
-    "word": "идéи",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B4%C3%A9%D0%B8&rnd=28266",
-    "stress": "идéи",
+  "идеи_025": {
+    "word": "идеи",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B4%D0%B5%D0%B8&rnd=11347",
+    "stress": "иде́и",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1391,31 +1423,31 @@
     },
     "example_sentences": [
       {
-        "russian": "ИД (инфекционная диарея)",
-        "german": "ИД (информационный департамент)"
+        "russian": "идеальный потребитель",
+        "german": "идеальный трансформатор"
       },
       {
-        "russian": "ИД (информационный департамент)",
-        "german": "ИД (исполнительная дирекция)"
+        "russian": "идеальный трансформатор",
+        "german": "иде̣афобия"
       },
       {
-        "russian": "ИД (исполнительная дирекция)",
-        "german": "ИД (исполнительная документация)"
+        "russian": "идеациональность",
+        "german": "идеациональный"
       },
       {
-        "russian": "ИД (исполнительная документация)",
-        "german": "ИД (исполнительный директор)"
+        "russian": "идейно выдержанно",
+        "german": "идейно выдержанный"
       },
       {
-        "russian": "ИД (исполнительный директор)",
-        "german": "ИД (испытуемый двигатель)"
+        "russian": "идейно выдержанный",
+        "german": ""
       }
     ]
   },
-  "бесконéчный_026": {
-    "word": "бесконéчный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%C3%A9%D1%87%D0%BD%D1%8B%D0%B9&rnd=66045",
-    "stress": "бесконéчный",
+  "бесконечный_026": {
+    "word": "бесконечный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9&rnd=22327",
+    "stress": "бесконе́чный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1468,31 +1500,31 @@
     },
     "example_sentences": [
       {
-        "russian": "бескомпромиссная борьба",
-        "german": "бескомпромисснейший"
+        "russian": "Russisch-Deutsches Universalwörterbuch online: бесконечный",
+        "german": ""
       },
       {
-        "russian": "бескомпромисснейший",
-        "german": "бескомпромиссно"
+        "russian": "бесконечные дрязги",
+        "german": "бесконечные жалобы"
       },
       {
-        "russian": "бескомпромиссно бороться",
-        "german": "бескомпромиссность"
+        "russian": "бесконечные жалобы",
+        "german": "бесконечные пределы"
       },
       {
-        "russian": "бескомпромиссность",
-        "german": "бескомпромиссный"
+        "russian": "бесконечные пределы",
+        "german": "бесконечные расходы"
       },
       {
-        "russian": "бескомпромиссный",
-        "german": "бескомпьютерный"
+        "russian": "бесконечные расходы",
+        "german": "бесконечные ссоры"
       }
     ]
   },
-  "отличáющийся_027": {
-    "word": "отличáющийся",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D0%BB%D0%B8%D1%87%C3%A1%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F&rnd=25737",
-    "stress": "отличáющийся",
+  "отличающийся_027": {
+    "word": "отличающийся",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%D1%81%D1%8F&rnd=12619",
+    "stress": "отлича́ющийся",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "отличиться",
@@ -1562,6 +1594,10 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: отличающийся",
+        "german": ""
+      },
+      {
         "russian": "отличающийся zu отлича́ться",
         "german": ""
       },
@@ -1570,22 +1606,18 @@
         "german": "мы (отлича́емся)вы (отлича́етесь)они отлича́ютсямы/вы/они отлича́лись"
       },
       {
-        "russian": "отлитографированный",
-        "german": "отлитографировать"
+        "russian": "отличающаяся рядовка",
+        "german": "отличающийся"
       },
       {
-        "russian": "отлитографировать",
-        "german": "отлитый"
-      },
-      {
-        "russian": "отлить (помочиться)",
-        "german": "отлить пушку"
+        "russian": "отличительная особенность",
+        "german": "отличительная черта"
       }
     ]
   },
   "трудности_028": {
     "word": "трудности",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8&rnd=30463",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D0%B8&rnd=50941",
     "stress": "тру́дности",
     "phonetic": "",
     "aspect": null,
@@ -1633,10 +1665,10 @@
       }
     ]
   },
-  "безбрéжный_029": {
-    "word": "безбрéжный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B5%D0%B7%D0%B1%D1%80%C3%A9%D0%B6%D0%BD%D1%8B%D0%B9&rnd=26335",
-    "stress": "безбрéжный",
+  "безбрежный_029": {
+    "word": "безбрежный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B5%D0%B7%D0%B1%D1%80%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9&rnd=92671",
+    "stress": "безбре́жный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1689,12 +1721,8 @@
     },
     "example_sentences": [
       {
-        "russian": "безбородый (о лице)",
-        "german": "безбородый (о человеке)"
-      },
-      {
-        "russian": "безбородый (о человеке)",
-        "german": "безбоязненно"
+        "russian": "Russisch-Deutsches Universalwörterbuch online: безбрежный",
+        "german": ""
       },
       {
         "russian": "безбрежная радость",
@@ -1707,13 +1735,17 @@
       {
         "russian": "безбрежная фантазия",
         "german": "безбрежно"
+      },
+      {
+        "russian": "безбумажное де̣лопроизводство",
+        "german": "безбумажное производство"
       }
     ]
   },
   "площадь_030": {
     "word": "площадь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C&rnd=38259",
-    "stress": "площадь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C&rnd=12733",
+    "stress": "пло̀щадь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1764,10 +1796,10 @@
       }
     ]
   },
-  "пугáющий_031": {
-    "word": "пугáющий",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%83%D0%B3%C3%A1%D1%8E%D1%89%D0%B8%D0%B9&rnd=50999",
-    "stress": "пугáющий",
+  "пугающий_031": {
+    "word": "пугающий",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%83%D0%B3%D0%B0%D1%8E%D1%89%D0%B8%D0%B9&rnd=95905",
+    "stress": "пуга́ющий",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "испугать",
@@ -1838,15 +1870,31 @@
     },
     "example_sentences": [
       {
-        "russian": "пугаемый (прогоняемый)",
-        "german": "пугалище"
+        "russian": "пугач (страшилище – ?)",
+        "german": ""
+      },
+      {
+        "russian": "пугачёвский (от фамилии Пугачёв)",
+        "german": ""
+      },
+      {
+        "russian": "пугачёвский (от фамилии Пугачёвский)",
+        "german": "пугачий (?)"
+      },
+      {
+        "russian": "пугающий (запугивающий)",
+        "german": "пугающий (прогоняющий)"
+      },
+      {
+        "russian": "пугающий (прогоняющий)",
+        "german": "пугающийся"
       }
     ]
   },
-  "выгóдный_032": {
-    "word": "выгóдный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D1%8B%D0%B3%C3%B3%D0%B4%D0%BD%D1%8B%D0%B9&rnd=86914",
-    "stress": "выгóдный",
+  "выгодный_032": {
+    "word": "выгодный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9&rnd=20762",
+    "stress": "вы́годный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1898,12 +1946,33 @@
       "comparative": "вы́годнее",
       "superlative": "вы́годнейший"
     },
-    "example_sentences": []
+    "example_sentences": [
+      {
+        "russian": "выгодно отличаться",
+        "german": "выгодное дельце"
+      },
+      {
+        "russian": "выгодные инвестиции",
+        "german": "выгодный"
+      },
+      {
+        "russian": "вы̣годополучатель",
+        "german": "вы̣годополучательница"
+      },
+      {
+        "russian": "вы̣годополучательница",
+        "german": "вы̣годоприобретатель"
+      },
+      {
+        "russian": "вы̣годоприобретатель",
+        "german": "выгодца"
+      }
+    ]
   },
-  "нелéпый_033": {
-    "word": "нелéпый",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%BB%C3%A9%D0%BF%D1%8B%D0%B9&rnd=31772",
-    "stress": "нелéпый",
+  "нелепый_033": {
+    "word": "нелепый",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%BB%D0%B5%D0%BF%D1%8B%D0%B9&rnd=65851",
+    "stress": "неле́пый",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -1957,19 +2026,15 @@
     },
     "example_sentences": [
       {
-        "russian": "нелабиализованный",
-        "german": ""
-      },
-      {
-        "russian": "неладушки (Нескладушки, неладушки, прямо ... по макушке.)",
-        "german": ""
+        "russian": "нелепость происходящего",
+        "german": "нелепость ситуации"
       }
     ]
   },
-  "далéкий_034": {
-    "word": "далéкий",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B0%D0%BB%C3%A9%D0%BA%D0%B8%D0%B9&rnd=37183",
-    "stress": "далéкий",
+  "далекий_034": {
+    "word": "далекий",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%B8%D0%B9&rnd=70403",
+    "stress": "далекий",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2023,23 +2088,19 @@
     },
     "example_sentences": [
       {
-        "russian": "да̣ктило-хореический",
-        "german": "дактиль (дактилический метр)"
+        "russian": "далеко (большое расстояние – ?)",
+        "german": "далеко (наречие)"
       },
       {
-        "russian": "дактиль (дактилический метр)",
-        "german": "дактильная речь"
-      },
-      {
-        "russian": "даламберовы силы инерции",
-        "german": "даласи"
+        "russian": "далеко (отдалённое место, страна)",
+        "german": ""
       }
     ]
   },
-  "любéзный_035": {
-    "word": "любéзный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D1%8E%D0%B1%C3%A9%D0%B7%D0%BD%D1%8B%D0%B9&rnd=35125",
-    "stress": "любéзный",
+  "любезный_035": {
+    "word": "любезный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D1%8E%D0%B1%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9&rnd=96901",
+    "stress": "любе́зный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2091,33 +2152,12 @@
       "comparative": "любе́знее",
       "superlative": "любе́знейший"
     },
-    "example_sentences": [
-      {
-        "russian": "любава (возлюбленная)",
-        "german": "любавочка (возлюбленная)"
-      },
-      {
-        "russian": "любавочка (возлюбленная)",
-        "german": "любавушка (возлюбленная)"
-      },
-      {
-        "russian": "любавушка (возлюбленная)",
-        "german": "любаша (возлюбленная)"
-      },
-      {
-        "russian": "любаша (возлюбленная)",
-        "german": "любашенька (возлюбленная)"
-      },
-      {
-        "russian": "любашенька (возлюбленная)",
-        "german": "любашечка (возлюбленная)"
-      }
-    ]
+    "example_sentences": []
   },
-  "измéнение_036": {
-    "word": "измéнение",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%C3%A9%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&rnd=34240",
-    "stress": "измéнение",
+  "изменение_036": {
+    "word": "изменение",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5&rnd=11717",
+    "stress": "измене́ние",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2147,18 +2187,30 @@
     },
     "example_sentences": [
       {
-        "russian": "излюбленное место",
-        "german": "излюбленность"
+        "russian": "измельчитель сахара",
+        "german": "измельчитель-ка̣мнеуловитель-мойка"
       },
       {
-        "russian": "изм. (изменённый)",
-        "german": "измазавший"
+        "russian": "измельчитель-ка̣мнеуловитель-мойка",
+        "german": "измельчить"
+      },
+      {
+        "russian": "измена (сленг наркоманов)",
+        "german": "измена Родине"
+      },
+      {
+        "russian": "изменение курса с фордевинда правого галса на бейдевинд правого галса",
+        "german": "изменение маршрута"
+      },
+      {
+        "russian": "изменение масштаба изображения",
+        "german": "изменение по родам"
       }
     ]
   },
   "наличие_037": {
     "word": "наличие",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%B8%D0%B5&rnd=46776",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B0%D0%BB%D0%B8%D1%87%D0%B8%D0%B5&rnd=43154",
     "stress": "нали́чие",
     "phonetic": "",
     "aspect": null,
@@ -2198,10 +2250,10 @@
       }
     ]
   },
-  "недостáток_038": {
-    "word": "недостáток",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%C3%A1%D1%82%D0%BE%D0%BA&rnd=85852",
-    "stress": "недостáток",
+  "недостаток_038": {
+    "word": "недостаток",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA&rnd=78489",
+    "stress": "недоста́ток",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2227,12 +2279,12 @@
     },
     "example_sentences": [
       {
-        "russian": "недостатки (лишения)",
-        "german": "недостаток (дефицит)"
+        "russian": "Russisch-Deutsches Universalwörterbuch online: недостаток",
+        "german": ""
       },
       {
-        "russian": "недостаток (дефицит)",
-        "german": "недостаток (изъян)"
+        "russian": "недостатки (лишения)",
+        "german": "недостаток"
       },
       {
         "russian": "недостаток (изъян)",
@@ -2240,14 +2292,18 @@
       },
       {
         "russian": "недостаток влаги",
-        "german": ""
+        "german": "недостаток времени"
+      },
+      {
+        "russian": "недостаток времени",
+        "german": "недостаток ликвидности"
       }
     ]
   },
-  "волшéбный_039": {
-    "word": "волшéбный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D0%BB%D1%88%C3%A9%D0%B1%D0%BD%D1%8B%D0%B9&rnd=55907",
-    "stress": "волшéбный",
+  "волшебный_039": {
+    "word": "волшебный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9&rnd=15724",
+    "stress": "волше́бный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2302,14 +2358,22 @@
     "example_sentences": [
       {
         "russian": "волшебник (сленг наркоманов)",
+        "german": "волшебница"
+      },
+      {
+        "russian": "волшебствовать (?)",
+        "german": "волынить"
+      },
+      {
+        "russian": "волынка (медлительность; возня)",
         "german": ""
       }
     ]
   },
-  "тягóстный_040": {
-    "word": "тягóстный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%8F%D0%B3%C3%B3%D1%81%D1%82%D0%BD%D1%8B%D0%B9&rnd=60236",
-    "stress": "тягóстный",
+  "тягостный_040": {
+    "word": "тягостный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%8F%D0%B3%D0%BE%D1%81%D1%82%D0%BD%D1%8B%D0%B9&rnd=87426",
+    "stress": "тя́гостный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2367,23 +2431,15 @@
         "german": ""
       },
       {
-        "russian": "тяга (воздействие наркотика)",
-        "german": "тяга (затяжка)"
-      },
-      {
-        "russian": "тяга (растворитель)",
-        "german": "тяга к приключениям"
-      },
-      {
-        "russian": "тяга к приключениям",
-        "german": "тяга штанги"
+        "russian": "тягота (тяжесть, тягостность)",
+        "german": "тяготевший"
       }
     ]
   },
-  "обязáтельный_041": {
-    "word": "обязáтельный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%B1%D1%8F%D0%B7%C3%A1%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=61388",
-    "stress": "обязáтельный",
+  "обязательный_041": {
+    "word": "обязательный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=85031",
+    "stress": "обяза́тельный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2437,31 +2493,31 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: обязательный",
+        "german": ""
+      },
+      {
         "russian": "Sup:обяза́тельнейший",
         "german": ""
       },
       {
-        "russian": "обюрокрачиваемый",
-        "german": "обюрокрачивание"
+        "russian": "обяза̣тельно-произвольный",
+        "german": "обязательность"
       },
       {
-        "russian": "обюрокрачиваться",
-        "german": ""
+        "russian": "обязательность страхования",
+        "german": "обязательные взносы в пенсионный фонд"
       },
       {
-        "russian": "обюссон (обюссоновский ковёр)",
-        "german": ""
-      },
-      {
-        "russian": "обюссоновский ковёр",
-        "german": "обязаловка (о программе)"
+        "russian": "обязательные взносы в пенсионный фонд",
+        "german": "обязательные работы"
       }
     ]
   },
-  "фундаментáльный_042": {
-    "word": "фундаментáльный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%C3%A1%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=77473",
-    "stress": "фундаментáльный",
+  "фундаментальный_042": {
+    "word": "фундаментальный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=92024",
+    "stress": "фундамента́льный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2515,6 +2571,10 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: фундаментальный",
+        "german": ""
+      },
+      {
         "russian": "фундамента́льный",
         "german": ""
       },
@@ -2529,17 +2589,13 @@
       {
         "russian": "N1:фундамента́льное",
         "german": "P1:фундамента́льные"
-      },
-      {
-        "russian": "P1:фундамента́льные",
-        "german": "M2:фундамента́льного"
       }
     ]
   },
-  "основáтельный_043": {
-    "word": "основáтельный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%C3%A1%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=51207",
-    "stress": "основáтельный",
+  "основательный_043": {
+    "word": "основательный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9&rnd=13872",
+    "stress": "основа́тельный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2593,7 +2649,7 @@
     },
     "example_sentences": [
       {
-        "russian": "Sup:основа́тельнейший",
+        "russian": "Russisch-Deutsches Universalwörterbuch online: основательный",
         "german": ""
       },
       {
@@ -2601,23 +2657,23 @@
         "german": ""
       },
       {
-        "russian": "ОСНО (общая система нало̣гообложения)",
-        "german": "основ. (основанный)"
+        "russian": "Sup:основа́тельнейший",
+        "german": ""
       },
       {
-        "russian": "основ. (основанный)",
-        "german": "основа"
+        "russian": "основательно укреплять",
+        "german": "основательное знакомство"
       },
       {
-        "russian": "основа (в лингвистике)",
-        "german": "основа (в ткацком деле)"
+        "russian": "основательное знакомство",
+        "german": "основательное знание"
       }
     ]
   },
-  "отдéлаться_044": {
-    "word": "отдéлаться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D0%B4%C3%A9%D0%BB%D0%B0%D1%82%D1%8C%D1%81%D1%8F&rnd=90945",
-    "stress": "отдéлаться",
+  "отделаться_044": {
+    "word": "отделаться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C%D1%81%D1%8F&rnd=47510",
+    "stress": "отде́латься",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "отделываться",
@@ -2653,6 +2709,10 @@
     "declension": null,
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: отделаться",
+        "german": ""
+      },
+      {
         "russian": "perfektiv, imperfektiver Partner ist отделываться (отделаться)Futurя отде́лаюсьты отде́лаешьсяон/она отде́лаетсяPräteritumя/ты/он отде́лалсяя/ты/она отде́лаласьоно отде́лалось",
         "german": "мы отде́лаемсявы отде́лаетесьони отде́лаютсямы/вы/они отде́лались"
       },
@@ -2665,18 +2725,14 @@
         "german": "Angemeldete Nutzer erhalten an dieser Stelle ggf. Informationen zu verwechslungsgefährdeten Wörtern und \"Falschen Freunden\" sowie zu ähnlichen und gegensätzlichen Wörtern (Synonymen, Teilsysnonymen, Antonymen). jetzt kostenlos anmelden"
       },
       {
-        "russian": "отгуляться (кончить веселье)",
-        "german": "отгуляться (о скотине)"
-      },
-      {
-        "russian": "отгуляться (о скотине)",
-        "german": "отд. (отдел)"
+        "russian": "отделанный (подо что-н.)",
+        "german": "отделанный (украшенный)"
       }
     ]
   },
   "вероятность_045": {
     "word": "вероятность",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=27707",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=33066",
     "stress": "вероя́тность",
     "phonetic": "",
     "aspect": null,
@@ -2724,10 +2780,10 @@
       }
     ]
   },
-  "желóбок_046": {
-    "word": "желóбок",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B6%D0%B5%D0%BB%C3%B3%D0%B1%D0%BE%D0%BA&rnd=58810",
-    "stress": "желóбок",
+  "желобок_046": {
+    "word": "желобок",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B6%D0%B5%D0%BB%D0%BE%D0%B1%D0%BE%D0%BA&rnd=21729",
+    "stress": "желобо̀к",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2751,20 +2807,11 @@
         "prepositional": "желобка̀х"
       }
     },
-    "example_sentences": [
-      {
-        "russian": "жел. (железистый)",
-        "german": "жел. (железнодорожный)"
-      },
-      {
-        "russian": "жел. (железнодорожный)",
-        "german": "жел. (железный)"
-      }
-    ]
+    "example_sentences": []
   },
   "бороздка_047": {
     "word": "бороздка",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%BA%D0%B0&rnd=54720",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%BA%D0%B0&rnd=47678",
     "stress": "боро́здка",
     "phonetic": "",
     "aspect": null,
@@ -2791,10 +2838,10 @@
     },
     "example_sentences": []
   },
-  "единствéнный_048": {
-    "word": "единствéнный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%C3%A9%D0%BD%D0%BD%D1%8B%D0%B9&rnd=88088",
-    "stress": "единствéнный",
+  "единственный_048": {
+    "word": "единственный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=93564",
+    "stress": "еди́нственный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -2846,6 +2893,10 @@
     },
     "example_sentences": [
       {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: единственный",
+        "german": ""
+      },
+      {
         "russian": "M2:еди́нственного",
         "german": "F2:еди́нственной"
       },
@@ -2860,16 +2911,12 @@
       {
         "russian": "N3:еди́нственному",
         "german": "P3:еди́нственным"
-      },
-      {
-        "russian": "P5:еди́нственными",
-        "german": "M6:оеди́нственном"
       }
     ]
   },
   "прилив_049": {
     "word": "прилив",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%B8%D0%BB%D0%B8%D0%B2&rnd=52202",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%B8%D0%BB%D0%B8%D0%B2&rnd=65082",
     "stress": "прили́в",
     "phonetic": "",
     "aspect": "perfektiv",
@@ -2946,10 +2993,10 @@
       }
     ]
   },
-  "помпéзный_050": {
-    "word": "помпéзный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BC%D0%BF%C3%A9%D0%B7%D0%BD%D1%8B%D0%B9&rnd=70459",
-    "stress": "помпéзный",
+  "помпезный_050": {
+    "word": "помпезный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BC%D0%BF%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9&rnd=19680",
+    "stress": "помпе́зный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3001,28 +3048,11 @@
       "comparative": "помпе́знее",
       "superlative": "помпе́знейший"
     },
-    "example_sentences": [
-      {
-        "russian": "помощь нуждающимся",
-        "german": "помощь от ООН"
-      },
-      {
-        "russian": "помощь пострадавшим",
-        "german": "помощь семьям"
-      },
-      {
-        "russian": "помощь спасателей",
-        "german": "помп (понто̣нно-мостовой парк)"
-      },
-      {
-        "russian": "помпадур (администратор-самодур)",
-        "german": "помпадур (дамская сумочка)"
-      }
-    ]
+    "example_sentences": []
   },
   "неотложность_051": {
     "word": "неотложность",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=21174",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B5%D0%BE%D1%82%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%8C&rnd=49118",
     "stress": "неотло́жность",
     "phonetic": "",
     "aspect": null,
@@ -3070,10 +3100,10 @@
       }
     ]
   },
-  "пропáвший_052": {
-    "word": "пропáвший",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%BF%C3%A1%D0%B2%D1%88%D0%B8%D0%B9&rnd=51184",
-    "stress": "пропáвший",
+  "пропавший_052": {
+    "word": "пропавший",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D1%88%D0%B8%D0%B9&rnd=87998",
+    "stress": "пропа́вший",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "пропадать",
@@ -3160,15 +3190,15 @@
         "german": "проорать (пропахать)"
       },
       {
-        "russian": "пропавший (исчезнувший)",
-        "german": ""
+        "russian": "пропаганда посредством телевизионных передач",
+        "german": "пропагандатор (пропагандист)"
       }
     ]
   },
-  "ближáйший_053": {
-    "word": "ближáйший",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%BB%D0%B8%D0%B6%C3%A1%D0%B9%D1%88%D0%B8%D0%B9&rnd=38984",
-    "stress": "ближáйший",
+  "ближайший_053": {
+    "word": "ближайший",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%BB%D0%B8%D0%B6%D0%B0%D0%B9%D1%88%D0%B8%D0%B9&rnd=90662",
+    "stress": "ближа́йший",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3230,15 +3260,15 @@
         "german": "ближайшее будущее"
       },
       {
-        "russian": "ближайший (о дружественном отношении)",
-        "german": "ближайший (о небольшом расстоянии)"
+        "russian": "ближайший (о небольшом расстоянии)",
+        "german": "ближайший конкурент"
       }
     ]
   },
-  "красóчный_054": {
-    "word": "красóчный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%80%D0%B0%D1%81%C3%B3%D1%87%D0%BD%D1%8B%D0%B9&rnd=71712",
-    "stress": "красóчный",
+  "красочный_054": {
+    "word": "красочный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%87%D0%BD%D1%8B%D0%B9&rnd=57286",
+    "stress": "кра́сочный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3290,11 +3320,28 @@
       "comparative": "кра́сочнее",
       "superlative": "кра́сочнейший"
     },
-    "example_sentences": []
+    "example_sentences": [
+      {
+        "russian": "красочное впечатление",
+        "german": "красочное шоу"
+      },
+      {
+        "russian": "красочный (запачканный красками – ?)",
+        "german": "краспица"
+      },
+      {
+        "russian": "краст (на ободке коктейльного бокала)",
+        "german": "краста (коктейль)"
+      },
+      {
+        "russian": "краста (на ободке коктейльного бокала)",
+        "german": "красть"
+      }
+    ]
   },
   "доступ_055": {
     "word": "доступ",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF&rnd=51172",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF&rnd=97400",
     "stress": "до́ступ",
     "phonetic": "",
     "aspect": null,
@@ -3334,10 +3381,10 @@
       }
     ]
   },
-  "гротéскный_056": {
-    "word": "гротéскный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D1%80%D0%BE%D1%82%C3%A9%D1%81%D0%BA%D0%BD%D1%8B%D0%B9&rnd=35752",
-    "stress": "гротéскный",
+  "гротескный_056": {
+    "word": "гротескный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D1%80%D0%BE%D1%82%D0%B5%D1%81%D0%BA%D0%BD%D1%8B%D0%B9&rnd=96156",
+    "stress": "гроте́скный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3387,12 +3434,33 @@
       },
       "comparative": "гроте́скнее"
     },
-    "example_sentences": []
+    "example_sentences": [
+      {
+        "russian": "Russisch-Deutsches Universalwörterbuch online: гротескный",
+        "german": ""
+      },
+      {
+        "russian": "гроте̣скно-иронический",
+        "german": "гроте̣скно-комично"
+      },
+      {
+        "russian": "гроте̣скно-сатирически",
+        "german": "гроте̣скно-сатирический"
+      },
+      {
+        "russian": "гроте̣скно-сатирический",
+        "german": "гротескность"
+      },
+      {
+        "russian": "гротескный стиль",
+        "german": "гротесковая роль"
+      }
+    ]
   },
-  "поcтепéнный_057": {
-    "word": "поcтепéнный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BEc%D1%82%D0%B5%D0%BF%C3%A9%D0%BD%D0%BD%D1%8B%D0%B9&rnd=59761",
-    "stress": "поcтепéнный",
+  "поcтепенный_057": {
+    "word": "поcтепенный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BEc%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9&rnd=58441",
+    "stress": "поcтепенный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3455,10 +3523,10 @@
       }
     ]
   },
-  "послéдующий_058": {
-    "word": "послéдующий",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D1%81%D0%BB%C3%A9%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D0%B9&rnd=47959",
-    "stress": "послéдующий",
+  "последующий_058": {
+    "word": "последующий",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B8%D0%B9&rnd=36831",
+    "stress": "после́дующий",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3504,23 +3572,31 @@
     },
     "example_sentences": [
       {
-        "russian": "послаблять (делать поблажки)",
-        "german": "послаблять (слабить)"
-      },
-      {
-        "russian": "послаблять (слабить)",
-        "german": "пославший (о человеке)"
-      },
-      {
-        "russian": "пославший (обругавший)",
+        "russian": "Russisch-Deutsches Universalwörterbuch online: последующий",
         "german": ""
+      },
+      {
+        "russian": "последствия стихийных бедствий",
+        "german": "последующая задача"
+      },
+      {
+        "russian": "последующая задача",
+        "german": "последующая реабилитация"
+      },
+      {
+        "russian": "последующая реабилитация",
+        "german": "последующая реализация"
+      },
+      {
+        "russian": "последующая реализация",
+        "german": "последующее"
       }
     ]
   },
-  "чрезмéрный_059": {
-    "word": "чрезмéрный",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D1%80%D0%B5%D0%B7%D0%BC%C3%A9%D1%80%D0%BD%D1%8B%D0%B9&rnd=49662",
-    "stress": "чрезмéрный",
+  "чрезмерный_059": {
+    "word": "чрезмерный",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D1%80%D0%B5%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B9&rnd=70681",
+    "stress": "чрезме́рный",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3572,31 +3648,31 @@
     },
     "example_sentences": [
       {
-        "russian": "Чрезвычайный и Полномочный Посол",
-        "german": "Чрезвычайный и Полномочный Посол Российской Федерации"
+        "russian": "Russisch-Deutsches Universalwörterbuch online: чрезмерный",
+        "german": ""
       },
       {
-        "russian": "Чрезвычайный и Полномочный Посол Российской Федерации",
-        "german": "чрезвычайный посол"
+        "russian": "чрезмерное терпение",
+        "german": "чрезмерное увлечение"
       },
       {
-        "russian": "чрезвычайный посол",
-        "german": "чрезвычайный уполномоченный"
+        "russian": "чрезмерное увлечение",
+        "german": "чрезмерное употребление"
       },
       {
-        "russian": "чрезвычайный уполномоченный",
-        "german": "чрезвычайный успех"
+        "russian": "чрезмерное употребление",
+        "german": "чрезмерное хладнокровие"
       },
       {
-        "russian": "чрезвычайный успех",
-        "german": "чрезвычайщик"
+        "russian": "чрезмерное хладнокровие",
+        "german": "чрезмерность"
       }
     ]
   },
   "что-нибудь_060": {
     "word": "что-нибудь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D1%82%D0%BE-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=64795",
-    "stress": "что-нибудь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D1%82%D0%BE-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=39697",
+    "stress": "что̀-нибудь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3622,8 +3698,8 @@
   },
   "ничего_061": {
     "word": "ничего",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE&rnd=11763",
-    "stress": "ничего",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE&rnd=42870",
+    "stress": "ничего̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3642,8 +3718,8 @@
   },
   "кто-то_062": {
     "word": "кто-то",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%82%D0%BE-%D1%82%D0%BE&rnd=29417",
-    "stress": "кто-то",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%82%D0%BE-%D1%82%D0%BE&rnd=54285",
+    "stress": "кто̀-то",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3685,8 +3761,8 @@
   },
   "кто-нибудь_063": {
     "word": "кто-нибудь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%82%D0%BE-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=24358",
-    "stress": "кто-нибудь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%82%D0%BE-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=15020",
+    "stress": "кто̀-нибудь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3728,8 +3804,8 @@
   },
   "никто_064": {
     "word": "никто",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D0%BA%D1%82%D0%BE&rnd=53036",
-    "stress": "никто",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D0%BA%D1%82%D0%BE&rnd=13319",
+    "stress": "никто̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3755,8 +3831,8 @@
   },
   "ничей_065": {
     "word": "ничей",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D1%87%D0%B5%D0%B9&rnd=29465",
-    "stress": "ничей",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%B8%D1%87%D0%B5%D0%B9&rnd=81854",
+    "stress": "ничѐй",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3813,8 +3889,8 @@
   },
   "чей-нибудь_066": {
     "word": "чей-нибудь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D0%B9-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=61480",
-    "stress": "чей-нибудь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D0%B9-%D0%BD%D0%B8%D0%B1%D1%83%D0%B4%D1%8C&rnd=83920",
+    "stress": "чѐй-нибудь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3863,8 +3939,8 @@
   },
   "один_067": {
     "word": "один",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%B4%D0%B8%D0%BD&rnd=41730",
-    "stress": "один",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%B4%D0%B8%D0%BD&rnd=84021",
+    "stress": "одѝн",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3913,8 +3989,8 @@
   },
   "восемь_068": {
     "word": "восемь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C&rnd=96315",
-    "stress": "восемь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C&rnd=81497",
+    "stress": "во̀семь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3956,8 +4032,8 @@
   },
   "девять_069": {
     "word": "девять",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D1%8C&rnd=80409",
-    "stress": "девять",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D0%B2%D1%8F%D1%82%D1%8C&rnd=69313",
+    "stress": "дѐвять",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -3999,8 +4075,8 @@
   },
   "десять_070": {
     "word": "десять",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C&rnd=61763",
-    "stress": "десять",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C&rnd=25534",
+    "stress": "дѐсять",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4042,8 +4118,8 @@
   },
   "двадцать_071": {
     "word": "двадцать",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C&rnd=75966",
-    "stress": "двадцать",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C&rnd=28888",
+    "stress": "два̀дцать",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4085,8 +4161,8 @@
   },
   "тридцать_072": {
     "word": "тридцать",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D0%B8%D0%B4%D1%86%D0%B0%D1%82%D1%8C&rnd=38833",
-    "stress": "тридцать",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D0%B8%D0%B4%D1%86%D0%B0%D1%82%D1%8C&rnd=84521",
+    "stress": "трѝдцать",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4107,8 +4183,8 @@
   },
   "пятьдесят_073": {
     "word": "пятьдесят",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%8F%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=27090",
-    "stress": "пятьдесят",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%8F%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=98741",
+    "stress": "пятьдеся̀т",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4150,8 +4226,8 @@
   },
   "шестьдесят_074": {
     "word": "шестьдесят",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%88%D0%B5%D1%81%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=37304",
-    "stress": "шестьдесят",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%88%D0%B5%D1%81%D1%82%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=27900",
+    "stress": "шестьдеся̀т",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4193,8 +4269,8 @@
   },
   "семьдесят_075": {
     "word": "семьдесят",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=43580",
-    "stress": "семьдесят",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=94259",
+    "stress": "сѐмьдесят",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4236,8 +4312,8 @@
   },
   "восемьдесят_076": {
     "word": "восемьдесят",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=96393",
-    "stress": "восемьдесят",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%BE%D1%81%D0%B5%D0%BC%D1%8C%D0%B4%D0%B5%D1%81%D1%8F%D1%82&rnd=24194",
+    "stress": "во̀семьдесят",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4279,8 +4355,8 @@
   },
   "двести_077": {
     "word": "двести",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%B8&rnd=11914",
-    "stress": "двести",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%B5%D1%81%D1%82%D0%B8&rnd=32566",
+    "stress": "двѐсти",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4314,8 +4390,8 @@
   },
   "триста_078": {
     "word": "триста",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D0%B8%D1%81%D1%82%D0%B0&rnd=75479",
-    "stress": "триста",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D1%80%D0%B8%D1%81%D1%82%D0%B0&rnd=16931",
+    "stress": "трѝста",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4349,8 +4425,8 @@
   },
   "четыреста_079": {
     "word": "четыреста",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5%D1%81%D1%82%D0%B0&rnd=83722",
-    "stress": "четыреста",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D1%82%D1%8B%D1%80%D0%B5%D1%81%D1%82%D0%B0&rnd=35793",
+    "stress": "четы̀реста",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4392,8 +4468,8 @@
   },
   "высота_080": {
     "word": "высота",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0&rnd=25507",
-    "stress": "высота",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0&rnd=61456",
+    "stress": "высота̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4442,8 +4518,8 @@
   },
   "глубина_081": {
     "word": "глубина",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0&rnd=97050",
-    "stress": "глубина",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0&rnd=17056",
+    "stress": "глубина̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4484,8 +4560,8 @@
   },
   "ведро_082": {
     "word": "ведро",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D0%B4%D1%80%D0%BE&rnd=17349",
-    "stress": "ведро",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D0%B4%D1%80%D0%BE&rnd=28367",
+    "stress": "ведро̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4518,8 +4594,8 @@
   },
   "горшок_083": {
     "word": "горшок",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D0%BE%D1%80%D1%88%D0%BE%D0%BA&rnd=98464",
-    "stress": "горшок",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B3%D0%BE%D1%80%D1%88%D0%BE%D0%BA&rnd=80468",
+    "stress": "горшо̀к",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4560,8 +4636,8 @@
   },
   "мешок_084": {
     "word": "мешок",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%B5%D1%88%D0%BE%D0%BA&rnd=44948",
-    "stress": "мешок",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%B5%D1%88%D0%BE%D0%BA&rnd=22419",
+    "stress": "мешо̀к",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4589,8 +4665,8 @@
   },
   "изменить_085": {
     "word": "изменить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C&rnd=16906",
-    "stress": "изменить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C&rnd=41501",
+    "stress": "изменѝть",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "изменять",
@@ -4650,8 +4726,8 @@
   },
   "подсказать_086": {
     "word": "подсказать",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&rnd=47638",
-    "stress": "подсказать",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&rnd=23687",
+    "stress": "подсказа̀ть",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "подсказывать",
@@ -4703,8 +4779,8 @@
   },
   "произносить_087": {
     "word": "произносить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C&rnd=40575",
-    "stress": "произносить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D1%8C&rnd=74781",
+    "stress": "произносѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "произнести",
@@ -4764,8 +4840,8 @@
   },
   "молиться_088": {
     "word": "молиться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=57527",
-    "stress": "молиться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=44564",
+    "stress": "молѝться",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "помолиться",
@@ -4820,8 +4896,8 @@
   },
   "ловить_089": {
     "word": "ловить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D0%BE%D0%B2%D0%B8%D1%82%D1%8C&rnd=64536",
-    "stress": "ловить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D0%BE%D0%B2%D0%B8%D1%82%D1%8C&rnd=45520",
+    "stress": "ловѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "поймать",
@@ -4865,8 +4941,8 @@
   },
   "любить_090": {
     "word": "любить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C&rnd=87579",
-    "stress": "любить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BB%D1%8E%D0%B1%D0%B8%D1%82%D1%8C&rnd=80051",
+    "stress": "любѝть",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -4926,8 +5002,8 @@
   },
   "сказать_091": {
     "word": "сказать",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&rnd=14793",
-    "stress": "сказать",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C&rnd=82648",
+    "stress": "сказа̀ть",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "говорить",
@@ -4975,8 +5051,8 @@
   },
   "торопиться_092": {
     "word": "торопиться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=74921",
-    "stress": "торопиться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=34976",
+    "stress": "торопѝться",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "поторопиться",
@@ -5027,8 +5103,8 @@
   },
   "искать_093": {
     "word": "искать",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D1%8C&rnd=70899",
-    "stress": "искать",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B8%D1%81%D0%BA%D0%B0%D1%82%D1%8C&rnd=74251",
+    "stress": "иска̀ть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "разыскать",
@@ -5080,8 +5156,8 @@
   },
   "переводить_094": {
     "word": "переводить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C&rnd=48196",
-    "stress": "переводить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D1%8C&rnd=43985",
+    "stress": "переводѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "перевести",
@@ -5141,8 +5217,8 @@
   },
   "шутить_095": {
     "word": "шутить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%88%D1%83%D1%82%D0%B8%D1%82%D1%8C&rnd=17704",
-    "stress": "шутить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%88%D1%83%D1%82%D0%B8%D1%82%D1%8C&rnd=20965",
+    "stress": "шутѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "пошутить",
@@ -5186,8 +5262,8 @@
   },
   "хотеть_096": {
     "word": "хотеть",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C&rnd=82213",
-    "stress": "хотеть",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%85%D0%BE%D1%82%D0%B5%D1%82%D1%8C&rnd=48679",
+    "stress": "хотѐть",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5235,8 +5311,8 @@
   },
   "платить_097": {
     "word": "платить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C&rnd=28765",
-    "stress": "платить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C&rnd=82430",
+    "stress": "платѝть",
     "phonetic": "",
     "aspect": "imperfektiv",
     "aspect_partner": "заплатить",
@@ -5292,8 +5368,8 @@
   },
   "среда_098": {
     "word": "среда",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D1%80%D0%B5%D0%B4%D0%B0&rnd=48031",
-    "stress": "среда",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D1%80%D0%B5%D0%B4%D0%B0&rnd=59693",
+    "stress": "среда̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5334,8 +5410,8 @@
   },
   "четверг_099": {
     "word": "четверг",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3&rnd=53137",
-    "stress": "четверг",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3&rnd=70199",
+    "stress": "четвѐрг",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5384,7 +5460,7 @@
   },
   "послезавтра_100": {
     "word": "послезавтра",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0&rnd=63679",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0&rnd=28830",
     "stress": "послезавтра",
     "phonetic": "",
     "aspect": null,
@@ -5416,8 +5492,8 @@
   },
   "полдень_101": {
     "word": "полдень",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C&rnd=78052",
-    "stress": "полдень",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD%D1%8C&rnd=64662",
+    "stress": "по̀лдень",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5454,8 +5530,8 @@
   },
   "вечер_102": {
     "word": "вечер",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%87%D0%B5%D1%80&rnd=81731",
-    "stress": "вечер",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%87%D0%B5%D1%80&rnd=86859",
+    "stress": "вѐчер",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5483,8 +5559,8 @@
   },
   "полночь_103": {
     "word": "полночь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%87%D1%8C&rnd=58307",
-    "stress": "полночь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D1%87%D1%8C&rnd=68392",
+    "stress": "по̀лночь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5521,7 +5597,7 @@
   },
   "полчаса_104": {
     "word": "полчаса",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D1%87%D0%B0%D1%81%D0%B0&rnd=99968",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D1%87%D0%B0%D1%81%D0%B0&rnd=82123",
     "stress": "полчаса",
     "phonetic": "",
     "aspect": null,
@@ -5550,8 +5626,8 @@
   },
   "январь_105": {
     "word": "январь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C&rnd=51231",
-    "stress": "январь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8C&rnd=38411",
+    "stress": "янва̀рь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5579,8 +5655,8 @@
   },
   "февраль_106": {
     "word": "февраль",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C&rnd=58674",
-    "stress": "февраль",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8C&rnd=37230",
+    "stress": "февра̀ль",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5621,8 +5697,8 @@
   },
   "сентябрь_107": {
     "word": "сентябрь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C&rnd=32797",
-    "stress": "сентябрь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8C&rnd=38612",
+    "stress": "сентя̀брь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5654,8 +5730,8 @@
   },
   "октябрь_108": {
     "word": "октябрь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C&rnd=74271",
-    "stress": "октябрь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C&rnd=83721",
+    "stress": "октя̀брь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5696,8 +5772,8 @@
   },
   "ноябрь_109": {
     "word": "ноябрь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C&rnd=77274",
-    "stress": "ноябрь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8C&rnd=76566",
+    "stress": "ноя̀брь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5746,8 +5822,8 @@
   },
   "декабрь_110": {
     "word": "декабрь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C&rnd=78063",
-    "stress": "декабрь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8C&rnd=61557",
+    "stress": "дека̀брь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5780,8 +5856,8 @@
   },
   "весна_111": {
     "word": "весна",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%81%D0%BD%D0%B0&rnd=99377",
-    "stress": "весна",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B2%D0%B5%D1%81%D0%BD%D0%B0&rnd=13779",
+    "stress": "весна̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5818,8 +5894,8 @@
   },
   "зима_112": {
     "word": "зима",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B7%D0%B8%D0%BC%D0%B0&rnd=62979",
-    "stress": "зима",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B7%D0%B8%D0%BC%D0%B0&rnd=13290",
+    "stress": "зима̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5864,8 +5940,8 @@
   },
   "число_113": {
     "word": "число",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B8%D1%81%D0%BB%D0%BE&rnd=11539",
-    "stress": "число",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%87%D0%B8%D1%81%D0%BB%D0%BE&rnd=85509",
+    "stress": "число̀",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5902,8 +5978,8 @@
   },
   "календарь_114": {
     "word": "календарь",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&rnd=78700",
-    "stress": "календарь",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80%D1%8C&rnd=88554",
+    "stress": "календа̀рь",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -5952,7 +6028,7 @@
   },
   "полгода_115": {
     "word": "полгода",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%B3%D0%BE%D0%B4%D0%B0&rnd=31577",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%BB%D0%B3%D0%BE%D0%B4%D0%B0&rnd=68559",
     "stress": "полгода",
     "phonetic": "",
     "aspect": null,
@@ -5981,8 +6057,8 @@
   },
   "поезд_116": {
     "word": "поезд",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4&rnd=97984",
-    "stress": "поезд",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4&rnd=74606",
+    "stress": "по̀езд",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6023,8 +6099,8 @@
   },
   "багаж_117": {
     "word": "багаж",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6&rnd=78579",
-    "stress": "багаж",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B1%D0%B0%D0%B3%D0%B0%D0%B6&rnd=43373",
+    "stress": "бага̀ж",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6069,8 +6145,8 @@
   },
   "паспорт_118": {
     "word": "паспорт",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82&rnd=64189",
-    "stress": "паспорт",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82&rnd=10888",
+    "stress": "па̀спорт",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6111,7 +6187,7 @@
   },
   "авиабилет_119": {
     "word": "авиабилет",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82&rnd=69462",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82&rnd=50028",
     "stress": "авиабилет",
     "phonetic": "",
     "aspect": null,
@@ -6153,8 +6229,8 @@
   },
   "место_120": {
     "word": "место",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%B5%D1%81%D1%82%D0%BE&rnd=38572",
-    "stress": "место",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%B5%D1%81%D1%82%D0%BE&rnd=44458",
+    "stress": "мѐсто",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6191,8 +6267,8 @@
   },
   "остановиться_121": {
     "word": "остановиться",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=12186",
-    "stress": "остановиться",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C%D1%81%D1%8F&rnd=98372",
+    "stress": "остановѝться",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "останавливаться",
@@ -6251,8 +6327,8 @@
   },
   "номер_122": {
     "word": "номер",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%BE%D0%BC%D0%B5%D1%80&rnd=96872",
-    "stress": "номер",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BD%D0%BE%D0%BC%D0%B5%D1%80&rnd=15667",
+    "stress": "но̀мер",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6301,8 +6377,8 @@
   },
   "дворец_123": {
     "word": "дворец",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&rnd=50358",
-    "stress": "дворец",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86&rnd=16991",
+    "stress": "дворѐц",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6351,7 +6427,7 @@
   },
   "авиакомпания_124": {
     "word": "авиакомпания",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&rnd=15980",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&rnd=35051",
     "stress": "авиакомпания",
     "phonetic": "",
     "aspect": null,
@@ -6401,7 +6477,7 @@
   },
   "сверхзвуковой_125": {
     "word": "сверхзвуковой",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B2%D0%B5%D1%80%D1%85%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9&rnd=96962",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D0%B2%D0%B5%D1%80%D1%85%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9&rnd=54111",
     "stress": "сверхзвуковой",
     "phonetic": "",
     "aspect": null,
@@ -6471,8 +6547,8 @@
   },
   "крылья_126": {
     "word": "крылья",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%80%D1%8B%D0%BB%D1%8C%D1%8F&rnd=42349",
-    "stress": "крылья",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D1%80%D1%8B%D0%BB%D1%8C%D1%8F&rnd=70785",
+    "stress": "кры̀лья",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6517,7 +6593,7 @@
   },
   "стоп-кран_127": {
     "word": "стоп-кран",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D1%82%D0%BE%D0%BF-%D0%BA%D1%80%D0%B0%D0%BD&rnd=56809",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D1%81%D1%82%D0%BE%D0%BF-%D0%BA%D1%80%D0%B0%D0%BD&rnd=22165",
     "stress": "стоп-кран",
     "phonetic": "",
     "aspect": null,
@@ -6546,8 +6622,8 @@
   },
   "отходить_128": {
     "word": "отходить",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C&rnd=85645",
-    "stress": "отходить",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BE%D1%82%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%8C&rnd=27592",
+    "stress": "отходѝть",
     "phonetic": "",
     "aspect": "perfektiv",
     "aspect_partner": "отхаживать",
@@ -6607,8 +6683,8 @@
   },
   "корабль_129": {
     "word": "корабль",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C&rnd=32276",
-    "stress": "корабль",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C&rnd=40527",
+    "stress": "кора̀бль",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6649,8 +6725,8 @@
   },
   "моряк_130": {
     "word": "моряк",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%BE%D1%80%D1%8F%D0%BA&rnd=58598",
-    "stress": "моряк",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BC%D0%BE%D1%80%D1%8F%D0%BA&rnd=74434",
+    "stress": "моря̀к",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,
@@ -6695,8 +6771,8 @@
   },
   "парус_131": {
     "word": "парус",
-    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B0%D1%80%D1%83%D1%81&rnd=32107",
-    "stress": "парус",
+    "url": "https://russisch.urz.uni-leipzig.de/online-woerterbuch/ruw.htm?ru=%D0%BF%D0%B0%D1%80%D1%83%D1%81&rnd=39096",
+    "stress": "па̀рус",
     "phonetic": "",
     "aspect": null,
     "aspect_partner": null,

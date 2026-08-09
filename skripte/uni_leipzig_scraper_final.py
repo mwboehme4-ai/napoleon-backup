@@ -99,11 +99,13 @@ class UniLeipzigScraperFinal:
             return None
 
     def _extract_stress(self, text: str, word: str) -> str:
-        parts = [re.escape(ch) + '\u0301?' for ch in word]
+        # Die Seite nutzt BEIDE Betonungszeichen: U+0301 (Akut) und
+        # U+0300 (Gravis). Beide akzeptieren.
+        parts = [re.escape(ch) + '[\u0300\u0301]?' for ch in word]
         pattern = ''.join(parts)
         matches = re.findall(pattern, text)
         for m in matches:
-            if '\u0301' in m:
+            if '\u0301' in m or '\u0300' in m:
                 return m
         return word
 

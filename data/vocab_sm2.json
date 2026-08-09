@@ -286,10 +286,10 @@
   "теребить_015": {
     "id": "теребить_015",
     "word": "теребить",
-    "stress": "теребить",
-    "translation": "Russisch aktuell",
+    "stress": "тереби́ть",
+    "translation": "zerren, zupfen",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "verb",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -301,7 +301,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.568332",
       "last_review": null
-    }
+    },
+    "aspect": "imperfektiv",
+    "gender": null
   },
   "вёшать_016": {
     "id": "вёшать_016",
@@ -807,9 +809,9 @@
     "id": "давить_042",
     "word": "давить",
     "stress": "давить",
-    "translation": "Russisch aktuell",
+    "translation": "drücken, pressen",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "verb",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -821,7 +823,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.568464",
       "last_review": null
-    }
+    },
+    "aspect": "imperfektiv",
+    "gender": null
   },
   "ста́вить_043": {
     "id": "ста́вить_043",
@@ -946,8 +950,8 @@
   "идентичность_049": {
     "id": "идентичность_049",
     "word": "идентичность",
-    "stress": "идентичность",
-    "translation": "Russisch aktuell",
+    "stress": "иденти́чность",
+    "translation": "Identität",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -961,7 +965,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.568497",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "дыра́_050": {
     "id": "дыра́_050",
@@ -1844,8 +1850,8 @@
   "иллюзии_092": {
     "id": "иллюзии_092",
     "word": "иллюзии",
-    "stress": "иллюзии",
-    "translation": "Russisch aktuell",
+    "stress": "иллю́зии",
+    "translation": "Illusionen",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -1859,7 +1865,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.568706",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "идеа́л_093": {
     "id": "идеа́л_093",
@@ -2079,7 +2087,7 @@
     "id": "удале́нный_104",
     "word": "удаленный",
     "stress": "удаленный",
-    "translation": "entfernt, entfernen (Partizip)",
+    "translation": "entfernt, entfernen",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -2208,10 +2216,10 @@
   "имеющийся_110": {
     "id": "имеющийся_110",
     "word": "имеющийся",
-    "stress": "имеющийся",
-    "translation": "Russisch aktuell",
+    "stress": "име́ющийся",
+    "translation": "vorhanden",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "adjective",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -2223,7 +2231,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.568786",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": null
   },
   "начина́ться_111": {
     "id": "начина́ться_111",
@@ -2915,8 +2925,8 @@
   },
   "прощáться_147": {
     "id": "прощáться_147",
-    "word": "прощáться",
-    "stress": "прощáться",
+    "word": "прощаться",
+    "stress": "прощаться",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -3337,7 +3347,7 @@
     "id": "узел_168",
     "word": "узел",
     "stress": "узел",
-    "translation": "Russisch aktuell",
+    "translation": "Knoten",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3351,7 +3361,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569061",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "неудо́бство_169": {
     "id": "неудо́бство_169",
@@ -3376,8 +3388,8 @@
   "пробел_170": {
     "id": "пробел_170",
     "word": "пробел",
-    "stress": "пробел",
-    "translation": "Russisch aktuell",
+    "stress": "пробе́л",
+    "translation": "Lücke, Zwischenraum",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3391,13 +3403,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569070",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "просвет_171": {
     "id": "просвет_171",
     "word": "просвет",
-    "stress": "просвет",
-    "translation": "Russisch aktuell",
+    "stress": "просве́т",
+    "translation": "Lichtung, Durchblick",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3411,13 +3425,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569074",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "пропуск_172": {
     "id": "пропуск_172",
     "word": "пропуск",
-    "stress": "пропуск",
-    "translation": "Russisch aktuell",
+    "stress": "про́пуск",
+    "translation": "Ausweis, Passierschein",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3431,15 +3447,17 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569079",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "окончáться_173": {
     "id": "окончáться_173",
-    "word": "окончáться",
-    "stress": "окончáться",
-    "translation": "Russisch aktuell",
+    "word": "окончаться",
+    "stress": "окончаться",
+    "translation": "enden, ablaufen",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "verb",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -3451,7 +3469,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569083",
       "last_review": null
-    }
+    },
+    "aspect": "perfektiv",
+    "gender": null
   },
   "заканчива́ться_174": {
     "id": "заканчива́ться_174",
@@ -3476,8 +3496,8 @@
   "различие_175": {
     "id": "различие_175",
     "word": "различие",
-    "stress": "различие",
-    "translation": "Russisch aktuell",
+    "stress": "разли́чие",
+    "translation": "Unterschied",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3491,13 +3511,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569095",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "уменьшéние_176": {
     "id": "уменьшéние_176",
-    "word": "уменьшéние",
-    "stress": "уменьшéние",
-    "translation": "Russisch aktuell",
+    "word": "уменьшение",
+    "stress": "уменьше́ние",
+    "translation": "die Verringerung",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3511,7 +3533,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569104",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "контра́ст_177": {
     "id": "контра́ст_177",
@@ -3555,9 +3579,9 @@
   },
   "получéние_179": {
     "id": "получéние_179",
-    "word": "получéние",
-    "stress": "получéние",
-    "translation": "Russisch aktuell",
+    "word": "получение",
+    "stress": "получе́ние",
+    "translation": "Erhalt, Empfang",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3571,7 +3595,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569118",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "комбина́ция_180": {
     "id": "комбина́ция_180",
@@ -3595,9 +3621,9 @@
   },
   "основáние_181": {
     "id": "основáние_181",
-    "word": "основáние",
-    "stress": "основáние",
-    "translation": "Russisch aktuell",
+    "word": "основание",
+    "stress": "основа́ние",
+    "translation": "Grundlage, Fundament",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3611,13 +3637,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569128",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "видимость_182": {
     "id": "видимость_182",
     "word": "видимость",
-    "stress": "видимость",
-    "translation": "Russisch aktuell",
+    "stress": "ви́димость",
+    "translation": "Sichtbarkeit",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3631,13 +3659,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569132",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "советчик_183": {
     "id": "советчик_183",
     "word": "советчик",
-    "stress": "советчик",
-    "translation": "Russisch aktuell",
+    "stress": "сове́тчик",
+    "translation": "Ratgeber",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -3651,7 +3681,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569136",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "ви́димый_184": {
     "id": "ви́димый_184",
@@ -3719,8 +3751,8 @@
   },
   "неизвéстный_187": {
     "id": "неизвéстный_187",
-    "word": "неизвéстный",
-    "stress": "неизвéстный",
+    "word": "неизвестный",
+    "stress": "неизве́стный",
     "translation": "unbekannt",
     "phonetic": "",
     "word_type": "adjective",
@@ -3783,8 +3815,8 @@
   },
   "продолжá́ться_190": {
     "id": "продолжá́ться_190",
-    "word": "продолжá́ться",
-    "stress": "продолжá́ться",
+    "word": "продолжа́ться",
+    "stress": "продолжа́ться",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -4043,8 +4075,8 @@
   },
   "чужó́й_203": {
     "id": "чужó́й_203",
-    "word": "чужó́й",
-    "stress": "чужó́й",
+    "word": "чужо́й",
+    "stress": "чужо́й",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -4063,8 +4095,8 @@
   },
   "собствé́нный_204": {
     "id": "собствé́нный_204",
-    "word": "собствéнный",
-    "stress": "собствéнный",
+    "word": "собственный",
+    "stress": "со́бственный",
     "translation": "eigen",
     "phonetic": "",
     "word_type": "adjective",
@@ -4257,8 +4289,8 @@
   },
   "противополó́жность_213": {
     "id": "противополó́жность_213",
-    "word": "противополó́жность",
-    "stress": "противополó́жность",
+    "word": "противополо́жность",
+    "stress": "противополо́жность",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -4319,9 +4351,9 @@
   },
   "косвé́нный_216": {
     "id": "косвé́нный_216",
-    "word": "косвéнный",
-    "stress": "косвéнный",
-    "translation": "indirekt",
+    "word": "косвенный",
+    "stress": "ко́свенный",
+    "translation": "indirekt; mittelbar",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -4361,9 +4393,9 @@
   },
   "небезопá́сный_218": {
     "id": "небезопá́сный_218",
-    "word": "небезопáсный",
-    "stress": "небезопáсный",
-    "translation": "gefährlich",
+    "word": "небезопасный",
+    "stress": "небезопа́сный",
+    "translation": "unsicher, gefährlich",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -4383,8 +4415,8 @@
   },
   "неопределé́нный_219": {
     "id": "неопределé́нный_219",
-    "word": "неопределé́нный",
-    "stress": "неопределé́нный",
+    "word": "неопределе́нный",
+    "stress": "неопределе́нный",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "verb",
@@ -4403,8 +4435,8 @@
   },
   "неудó́бный_220": {
     "id": "неудó́бный_220",
-    "word": "неудóбный",
-    "stress": "неудóбный",
+    "word": "неудобный",
+    "stress": "неудо́бный",
     "translation": "unbequem",
     "phonetic": "",
     "word_type": "adjective",
@@ -4425,8 +4457,8 @@
   },
   "содержá́ние_221": {
     "id": "содержá́ние_221",
-    "word": "содержá́ние",
-    "stress": "содержá́ние",
+    "word": "содержа́ние",
+    "stress": "содержа́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -4511,9 +4543,9 @@
   },
   "идéи_225": {
     "id": "идéи_225",
-    "word": "идéи",
-    "stress": "идéи",
-    "translation": "Russisch aktuell",
+    "word": "идеи",
+    "stress": "иде́и",
+    "translation": "Ideen",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -4527,7 +4559,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569334",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "комбиниро́вать_226": {
     "id": "комбиниро́вать_226",
@@ -4617,9 +4651,9 @@
   },
   "бесконé́чный_230": {
     "id": "бесконé́чный_230",
-    "word": "бесконéчный",
-    "stress": "бесконéчный",
-    "translation": "endlos, unendlich",
+    "word": "бесконечный",
+    "stress": "бесконе́чный",
+    "translation": "unendlich",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -4639,11 +4673,11 @@
   },
   "отличáющийся_231": {
     "id": "отличáющийся_231",
-    "word": "отличáющийся",
-    "stress": "отличáющийся",
-    "translation": "Russisch aktuell",
+    "word": "отличающийся",
+    "stress": "отлича́ющийся",
+    "translation": "sich unterscheidend",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "adjective",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -4655,13 +4689,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569364",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": null
   },
   "трудности_232": {
     "id": "трудности_232",
     "word": "трудности",
-    "stress": "трудности",
-    "translation": "Russisch aktuell",
+    "stress": "тру́дности",
+    "translation": "Schwierigkeiten",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -4675,12 +4711,14 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569369",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "тяжé́лый_233": {
     "id": "тяжé́лый_233",
-    "word": "тяжé́лый",
-    "stress": "тяжé́лый",
+    "word": "тяже́лый",
+    "stress": "тяже́лый",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "adjective",
@@ -4827,9 +4865,9 @@
   },
   "безбрé́жный_240": {
     "id": "безбрé́жный_240",
-    "word": "безбрéжный",
-    "stress": "безбрéжный",
-    "translation": "grenzenlos",
+    "word": "безбрежный",
+    "stress": "безбре́жный",
+    "translation": "grenzenlos, uferlos",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -4851,7 +4889,7 @@
     "id": "площадь_241",
     "word": "площадь",
     "stress": "площадь",
-    "translation": "Russisch aktuell",
+    "translation": "Platz, Fläche",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -4865,15 +4903,17 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569411",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "пугáющий_242": {
     "id": "пугáющий_242",
-    "word": "пугáющий",
-    "stress": "пугáющий",
+    "word": "пугающий",
+    "stress": "пуга́ющий",
     "translation": "erschreckend",
     "phonetic": "",
-    "word_type": "verb",
+    "word_type": "adjective",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -4886,14 +4926,14 @@
       "next_review": "2026-08-09T19:07:57.569415",
       "last_review": null
     },
-    "aspect": "imperfektiv",
+    "aspect": null,
     "gender": null
   },
   "выгó́дный_243": {
     "id": "выгó́дный_243",
-    "word": "выгóдный",
-    "stress": "выгóдный",
-    "translation": "vorteilhaft, günstig",
+    "word": "выгодный",
+    "stress": "вы́годный",
+    "translation": "vorteilhaft, profitabel",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -4913,8 +4953,8 @@
   },
   "нелé́пый_244": {
     "id": "нелé́пый_244",
-    "word": "нелéпый",
-    "stress": "нелéпый",
+    "word": "нелепый",
+    "stress": "неле́пый",
     "translation": "absurd, lächerlich",
     "phonetic": "",
     "word_type": "adjective",
@@ -5023,9 +5063,9 @@
   },
   "далé́кий_249": {
     "id": "далé́кий_249",
-    "word": "далéкий",
-    "stress": "далéкий",
-    "translation": "fern, weit",
+    "word": "далекий",
+    "stress": "далекий",
+    "translation": "fern, entfernt",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -5192,8 +5232,8 @@
   },
   "запá́с_259": {
     "id": "запá́с_259",
-    "word": "запá́с",
-    "stress": "запá́с",
+    "word": "запа́с",
+    "stress": "запа́с",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -5212,8 +5252,8 @@
   },
   "превращé́ние_260": {
     "id": "превращé́ние_260",
-    "word": "превращé́ние",
-    "stress": "превращé́ние",
+    "word": "превраще́ние",
+    "stress": "превраще́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -5400,8 +5440,8 @@
   },
   "любé́зный_269": {
     "id": "любé́зный_269",
-    "word": "любéзный",
-    "stress": "любéзный",
+    "word": "любезный",
+    "stress": "любе́зный",
     "translation": "liebenswürdig",
     "phonetic": "",
     "word_type": "adjective",
@@ -5466,9 +5506,9 @@
   },
   "измéнение_272": {
     "id": "измéнение_272",
-    "word": "измéнение",
-    "stress": "измéнение",
-    "translation": "Russisch aktuell",
+    "word": "изменение",
+    "stress": "измене́ние",
+    "translation": "Änderung",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -5482,7 +5522,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569549",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "крах_273": {
     "id": "крах_273",
@@ -5507,8 +5549,8 @@
   "наличие_274": {
     "id": "наличие_274",
     "word": "наличие",
-    "stress": "наличие",
-    "translation": "Russisch aktuell",
+    "stress": "нали́чие",
+    "translation": "Vorhandensein, Verfügbarkeit",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -5522,7 +5564,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569558",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "neuter"
   },
   "хвата́ть_275": {
     "id": "хвата́ть_275",
@@ -5546,9 +5590,9 @@
   },
   "недостáток_276": {
     "id": "недостáток_276",
-    "word": "недостáток",
-    "stress": "недостáток",
-    "translation": "Russisch aktuell",
+    "word": "недостаток",
+    "stress": "недоста́ток",
+    "translation": "Mangel, Nachteil",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -5562,7 +5606,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569567",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "кла́сть_277": {
     "id": "кла́сть_277",
@@ -5586,9 +5632,9 @@
   },
   "волшé́бный_278": {
     "id": "волшé́бный_278",
-    "word": "волшéбный",
-    "stress": "волшéбный",
-    "translation": "Zauberhaft, magisch",
+    "word": "волшебный",
+    "stress": "волше́бный",
+    "translation": "Zauberhaft",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -5630,9 +5676,9 @@
   },
   "тягó́стный_280": {
     "id": "тягó́стный_280",
-    "word": "тягóстный",
-    "stress": "тягóстный",
-    "translation": "beschwerlich, lastend",
+    "word": "тягостный",
+    "stress": "тя́гостный",
+    "translation": "bedrückend, quälend",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -5816,8 +5862,8 @@
   },
   "получá́ть_289": {
     "id": "получá́ть_289",
-    "word": "получá́ть",
-    "stress": "получá́ть",
+    "word": "получа́ть",
+    "stress": "получа́ть",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -5858,9 +5904,9 @@
   },
   "обязáтельный_291": {
     "id": "обязáтельный_291",
-    "word": "обязáтельный",
-    "stress": "обязáтельный",
-    "translation": "Russisch aktuell",
+    "word": "обязательный",
+    "stress": "обяза́тельный",
+    "translation": "obligatorisch, Pflicht-",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Adjective",
@@ -5874,12 +5920,14 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569643",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": null
   },
   "непремé́нно_292": {
     "id": "непремé́нно_292",
-    "word": "непремé́нно",
-    "stress": "непремé́нно",
+    "word": "непреме́нно",
+    "stress": "непреме́нно",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -5942,8 +5990,8 @@
   },
   "проникá́ть_295": {
     "id": "проникá́ть_295",
-    "word": "проникá́ть",
-    "stress": "проникá́ть",
+    "word": "проника́ть",
+    "stress": "проника́ть",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6022,8 +6070,8 @@
   },
   "фундаментá́льный_299": {
     "id": "фундаментá́льный_299",
-    "word": "фундаментáльный",
-    "stress": "фундаментáльный",
+    "word": "фундаментальный",
+    "stress": "фундамента́льный",
     "translation": "grundlegend, fundamental",
     "phonetic": "",
     "word_type": "adjective",
@@ -6044,9 +6092,9 @@
   },
   "основáтельный_300": {
     "id": "основáтельный_300",
-    "word": "основáтельный",
-    "stress": "основáтельный",
-    "translation": "gründlich, fundiert",
+    "word": "основательный",
+    "stress": "основа́тельный",
+    "translation": "gründlich, solide",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -6126,8 +6174,8 @@
   },
   "громыхá́ть_304": {
     "id": "громыхá́ть_304",
-    "word": "громыхá́ть",
-    "stress": "громыхá́ть",
+    "word": "громыха́ть",
+    "stress": "громыха́ть",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6226,11 +6274,11 @@
   },
   "отдéлаться_309": {
     "id": "отдéлаться_309",
-    "word": "отдéлаться",
-    "stress": "отдéлаться",
-    "translation": "Russisch aktuell",
+    "word": "отделаться",
+    "stress": "отде́латься",
+    "translation": "loswerden, sich befreien von",
     "phonetic": "",
-    "word_type": "noun",
+    "word_type": "verb",
     "category": "Noun",
     "level": "A1",
     "tags": [
@@ -6242,7 +6290,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569732",
       "last_review": null
-    }
+    },
+    "aspect": "perfektiv",
+    "gender": null
   },
   "болта́ться_310": {
     "id": "болта́ться_310",
@@ -6346,8 +6396,8 @@
   },
   "приданó́е_317": {
     "id": "приданó́е_317",
-    "word": "приданó́е",
-    "stress": "приданó́е",
+    "word": "придано́е",
+    "stress": "придано́е",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6426,8 +6476,8 @@
   },
   "сотрясá́ть_321": {
     "id": "сотрясá́ть_321",
-    "word": "сотрясá́ть",
-    "stress": "сотрясá́ть",
+    "word": "сотряса́ть",
+    "stress": "сотряса́ть",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6526,8 +6576,8 @@
   },
   "населé́нность_326": {
     "id": "населé́нность_326",
-    "word": "населé́нность",
-    "stress": "населé́нность",
+    "word": "населе́нность",
+    "stress": "населе́нность",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6546,8 +6596,8 @@
   },
   "ориентá́ция_327": {
     "id": "ориентá́ция_327",
-    "word": "ориентá́ция",
-    "stress": "ориентá́ция",
+    "word": "ориента́ция",
+    "stress": "ориента́ция",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6566,8 +6616,8 @@
   },
   "понижé́ние_329": {
     "id": "понижé́ние_329",
-    "word": "понижé́ние",
-    "stress": "понижé́ние",
+    "word": "пониже́ние",
+    "stress": "пониже́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6587,8 +6637,8 @@
   "вероятность_330": {
     "id": "вероятность_330",
     "word": "вероятность",
-    "stress": "вероятность",
-    "translation": "Russisch aktuell",
+    "stress": "вероя́тность",
+    "translation": "Wahrscheinlichkeit",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -6602,7 +6652,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569823",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "выска́кивать_331": {
     "id": "выска́кивать_331",
@@ -6626,9 +6678,9 @@
   },
   "желóбок_332": {
     "id": "желóбок_332",
-    "word": "желóбок",
-    "stress": "желóбок",
-    "translation": "Russisch aktuell",
+    "word": "желобок",
+    "stress": "желобок",
+    "translation": "Rinne, Nut",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -6642,13 +6694,15 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569832",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "бороздка_333": {
     "id": "бороздка_333",
     "word": "бороздка",
-    "stress": "бороздка",
-    "translation": "Russisch aktuell",
+    "stress": "боро́здка",
+    "translation": "Rille, Furche",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -6662,12 +6716,14 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569837",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "спá́д_334": {
     "id": "спá́д_334",
-    "word": "спá́д",
-    "stress": "спá́д",
+    "word": "спа́д",
+    "stress": "спа́д",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6686,8 +6742,8 @@
   },
   "дополнé́ние_335": {
     "id": "дополнé́ние_335",
-    "word": "дополнé́ние",
-    "stress": "дополнé́ние",
+    "word": "дополне́ние",
+    "stress": "дополне́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6706,8 +6762,8 @@
   },
   "попó́лнение_336": {
     "id": "попó́лнение_336",
-    "word": "попó́лнение",
-    "stress": "попó́лнение",
+    "word": "попо́лнение",
+    "stress": "попо́лнение",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6726,8 +6782,8 @@
   },
   "полнотá́_337": {
     "id": "полнотá́_337",
-    "word": "полнотá́",
-    "stress": "полнотá́",
+    "word": "полнота́",
+    "stress": "полнота́",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6826,8 +6882,8 @@
   },
   "одобрé́ние_342": {
     "id": "одобрé́ние_342",
-    "word": "одобрé́ние",
-    "stress": "одобрé́ние",
+    "word": "одобре́ние",
+    "stress": "одобре́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -6846,8 +6902,8 @@
   },
   "беспримé́рный_343": {
     "id": "беспримé́рный_343",
-    "word": "беспримé́рный",
-    "stress": "беспримé́рный",
+    "word": "бесприме́рный",
+    "stress": "бесприме́рный",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "adjective",
@@ -6888,9 +6944,9 @@
   },
   "единствé́нный_345": {
     "id": "единствé́нный_345",
-    "word": "единствéнный",
-    "stress": "единствéнный",
-    "translation": "einzig, alleinig",
+    "word": "единственный",
+    "stress": "еди́нственный",
+    "translation": "einzig, einzige",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -6977,8 +7033,8 @@
   "прилив_349": {
     "id": "прилив_349",
     "word": "прилив",
-    "stress": "прилив",
-    "translation": "Russisch aktuell",
+    "stress": "прили́в",
+    "translation": "Flut, Anstieg",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -6992,7 +7048,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569913",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "наплы́в_350": {
     "id": "наплы́в_350",
@@ -7038,9 +7096,9 @@
   },
   "помпéзный_352": {
     "id": "помпéзный_352",
-    "word": "помпéзный",
-    "stress": "помпéзный",
-    "translation": "pompös",
+    "word": "помпезный",
+    "stress": "помпе́зный",
+    "translation": "pompös, prunkvoll",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -7103,8 +7161,8 @@
   "неотложность_355": {
     "id": "неотложность_355",
     "word": "неотложность",
-    "stress": "неотложность",
-    "translation": "Russisch aktuell",
+    "stress": "неотло́жность",
+    "translation": "Dringlichkeit",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -7118,7 +7176,9 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569951",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "feminine"
   },
   "постоя́нство_356": {
     "id": "постоя́нство_356",
@@ -7162,8 +7222,8 @@
   },
   "коренно́е населé́ние_358": {
     "id": "коренно́е населé́ние_358",
-    "word": "коренно́е населé́ние",
-    "stress": "коренно́е населé́ние",
+    "word": "коренно́е населе́ние",
+    "stress": "коренно́е населе́ние",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -7182,8 +7242,8 @@
   },
   "пропá́вший_359": {
     "id": "пропá́вший_359",
-    "word": "пропáвший",
-    "stress": "пропáвший",
+    "word": "пропавший",
+    "stress": "пропа́вший",
     "translation": "verschwunden",
     "phonetic": "",
     "word_type": "adjective",
@@ -7226,9 +7286,9 @@
   },
   "ближá́йший_361": {
     "id": "ближá́йший_361",
-    "word": "ближáйший",
-    "stress": "ближáйший",
-    "translation": "nächstgelegen, nächster",
+    "word": "ближайший",
+    "stress": "ближа́йший",
+    "translation": "nächstgelegen, nächste",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -7270,9 +7330,9 @@
   },
   "красó́чный_363": {
     "id": "красó́чный_363",
-    "word": "красóчный",
-    "stress": "красóчный",
-    "translation": "malerisch, farbenfroh",
+    "word": "красочный",
+    "stress": "кра́сочный",
+    "translation": "bunt, farbenfroh",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -7293,8 +7353,8 @@
   "доступ_364": {
     "id": "доступ_364",
     "word": "доступ",
-    "stress": "доступ",
-    "translation": "Russisch aktuell",
+    "stress": "до́ступ",
+    "translation": "Zugang",
     "phonetic": "",
     "word_type": "noun",
     "category": "Noun",
@@ -7308,12 +7368,14 @@
       "repetitions": 0,
       "next_review": "2026-08-09T19:07:57.569996",
       "last_review": null
-    }
+    },
+    "aspect": null,
+    "gender": "masculine"
   },
   "гротéскный_365": {
     "id": "гротéскный_365",
-    "word": "гротéскный",
-    "stress": "гротéскный",
+    "word": "гротескный",
+    "stress": "гроте́скный",
     "translation": "grotesk",
     "phonetic": "",
     "word_type": "adjective",
@@ -7334,9 +7396,9 @@
   },
   "поcтепé́нный_366": {
     "id": "поcтепé́нный_366",
-    "word": "поcтепéнный",
-    "stress": "поcтепéнный",
-    "translation": "allmählich",
+    "word": "поcтепенный",
+    "stress": "поcтепенный",
+    "translation": "allmählich, schrittweise",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -7356,8 +7418,8 @@
   },
   "дá́нный_367": {
     "id": "дá́нный_367",
-    "word": "дáнный",
-    "stress": "дáнный",
+    "word": "данный",
+    "stress": "данный",
     "translation": "gegeben",
     "phonetic": "",
     "word_type": "verb",
@@ -7378,9 +7440,9 @@
   },
   "послé́дующий_369": {
     "id": "послé́дующий_369",
-    "word": "послéдующий",
-    "stress": "послéдующий",
-    "translation": "folgend",
+    "word": "последующий",
+    "stress": "после́дующий",
+    "translation": "folgend, nachfolgend",
     "phonetic": "",
     "word_type": "adjective",
     "category": "Noun",
@@ -7400,8 +7462,8 @@
   },
   "чрезмé́рный_370": {
     "id": "чрезмé́рный_370",
-    "word": "чрезмéрный",
-    "stress": "чрезмéрный",
+    "word": "чрезмерный",
+    "stress": "чрезме́рный",
     "translation": "übermäßig",
     "phonetic": "",
     "word_type": "adjective",
@@ -7422,8 +7484,8 @@
   },
   "основнó́й_371": {
     "id": "основнó́й_371",
-    "word": "основнó́й",
-    "stress": "основнó́й",
+    "word": "основно́й",
+    "stress": "основно́й",
     "translation": "Russisch aktuell",
     "phonetic": "",
     "word_type": "noun",
@@ -8807,7 +8869,7 @@
   "кто-нибудь_080": {
     "word": "кто-нибудь",
     "stress": "кто-нибудь",
-    "translation": "irgendjemand, jemand (beliebig)",
+    "translation": "irgendwer",
     "phonetic": "",
     "word_type": "pronoun",
     "aspect": null,
@@ -8858,7 +8920,7 @@
   "ничей_083": {
     "word": "ничей",
     "stress": "ничей",
-    "translation": "niemands (Possessivpronomen)",
+    "translation": "niemands",
     "phonetic": "",
     "word_type": "pronoun",
     "aspect": null,
@@ -8875,7 +8937,7 @@
   "чей-нибудь_084": {
     "word": "чей-нибудь",
     "stress": "чей-нибудь",
-    "translation": "irgendein (Possessivpronomen)",
+    "translation": "irgendein",
     "phonetic": "",
     "word_type": "pronoun",
     "aspect": null,
@@ -11901,7 +11963,7 @@
   "изменить_262": {
     "word": "изменить",
     "stress": "изменить",
-    "translation": "ändern, verändern",
+    "translation": "ändern",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "perfektiv",
@@ -11918,7 +11980,7 @@
   "подсказать_263": {
     "word": "подсказать",
     "stress": "подсказать",
-    "translation": "vorschlagen, raten",
+    "translation": "vorschlagen, empfehlen",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "perfektiv",
@@ -12530,7 +12592,7 @@
   "ловить_299": {
     "word": "ловить",
     "stress": "ловить",
-    "translation": "fangen",
+    "translation": "fangen, fischen",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "imperfektiv",
@@ -13193,7 +13255,7 @@
   "сказать_038": {
     "word": "сказать",
     "stress": "сказать",
-    "translation": "sagen",
+    "translation": "sagen, erzählen",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "perfektiv",
@@ -13907,7 +13969,7 @@
   "шутить_080": {
     "word": "шутить",
     "stress": "шутить",
-    "translation": "scherzen, Spaß machen",
+    "translation": "scherzen, Witze machen",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "imperfektiv",
@@ -14026,7 +14088,7 @@
   "среда_087": {
     "word": "среда",
     "stress": "среда",
-    "translation": "Mittwoch, Umgebung",
+    "translation": "Mittwoch / Umgebung",
     "phonetic": "",
     "word_type": "noun",
     "aspect": null,
@@ -14145,7 +14207,7 @@
   "послезавтра_094": {
     "word": "послезавтра",
     "stress": "послезавтра",
-    "translation": "übermorgen",
+    "translation": "uebermorgen",
     "phonetic": "",
     "word_type": "adverb",
     "aspect": null,
@@ -15522,7 +15584,7 @@
   "место_175": {
     "word": "место",
     "stress": "место",
-    "translation": "Ort, Platz",
+    "translation": "Ort, Platz, Stelle",
     "phonetic": "",
     "word_type": "noun",
     "aspect": null,
@@ -15675,7 +15737,7 @@
   "остановиться_184": {
     "word": "остановиться",
     "stress": "остановиться",
-    "translation": "anhalten, aufhören, stoppen",
+    "translation": "anhalten, stehen bleiben",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "perfektiv",
@@ -15981,7 +16043,7 @@
   "дворец_202": {
     "word": "дворец",
     "stress": "дворец",
-    "translation": "Palast",
+    "translation": "Palast, Schloss",
     "phonetic": "",
     "word_type": "noun",
     "aspect": null,
@@ -17001,7 +17063,7 @@
   "стоп-кран_262": {
     "word": "стоп-кран",
     "stress": "стоп-кран",
-    "translation": "Notsignal, Notbremse",
+    "translation": "Notbremse",
     "phonetic": "",
     "word_type": "noun",
     "aspect": null,
@@ -17069,7 +17131,7 @@
   "отходить_266": {
     "word": "отходить",
     "stress": "отходить",
-    "translation": "sich entfernen, abgehen",
+    "translation": "weggehen, abfahren",
     "phonetic": "",
     "word_type": "verb",
     "aspect": "perfektiv",
@@ -17511,7 +17573,7 @@
   "моряк_292": {
     "word": "моряк",
     "stress": "моряк",
-    "translation": "Seemann, Matrose",
+    "translation": "Matrose, Seemann",
     "phonetic": "",
     "word_type": "noun",
     "aspect": null,
