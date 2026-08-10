@@ -313,6 +313,10 @@ def main():
             sprachfehler_final += 1
             print("    [!] Sprachproblem bleibt auch nach Nachversuch bestehen")
 
+        # Scraper-Felder haben Vorrang - das LLM darf Betonung,
+        # Konjugation und Deklination nicht ueberschreiben.
+        for geschuetzt in ('stress','conjugation','declension','aspect_partner','phonetic'):
+            enriched.pop(geschuetzt, None)
         fertig[word_id] = {**word_data, **enriched}
 
         if i % args.every == 0:
