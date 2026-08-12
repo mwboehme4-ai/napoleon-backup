@@ -123,7 +123,7 @@ async function playAudio() {
       isPlayingAudio.value = false
       return
     }
-    const utterance = new SpeechSynthesisUtterance(props.card.word)
+    const utterance = new SpeechSynthesisUtterance(props.card.word.normalize("NFC").replace(/[\u0300-\u036f]/g, ""))
     utterance.lang = 'ru-RU'
     utterance.rate = 0.9
 
