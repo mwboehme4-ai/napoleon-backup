@@ -50,6 +50,7 @@
 import { ref, computed, onMounted } from 'vue'
 import CardTrainer from './components/CardTrainer.vue'
 import StatsDashboard from './components/StatsDashboard.vue'
+import { ladeVokabeln } from './supabase'
 import { migriere, faelligeKarten, bewerte, speichereKarte, statistik,
          zuruecksetzen, type Card as SM2Card, type Bewertung } from './sm2'
 
@@ -92,9 +93,7 @@ const totalWords = computed(() => vocabList.value.length)
 
 onMounted(async () => {
   try {
-    const vocabResponse = await fetch('/data/vocab_sm2.json')
-    const vocabData = await vocabResponse.json()
-    vocabList.value = Object.values(vocabData) as VocabCard[]
+    vocabList.value = (await ladeVokabeln()) as unknown as VocabCard[]
 
     const grammarResponse = await fetch('/data/grammar_db.json')
     const grammarData = await grammarResponse.json()
